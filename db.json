@@ -46,7 +46,7 @@
         "name":"O3+ Brightening AM & PM Combo",
         "amount":"70gm", 
         "brand":"O3+",
-        "price":"1701.00",
+        "price":"999.00",
         "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
       },
       {
@@ -74,7 +74,149 @@
       }
     ],
  
-    "data1":[]
+    "data1":[
+      {
+      "id": 1,
+      "name": false,
+      "brand": true,
+      "amount": true,
+      "price": false,
+      "image": true
+    }, {
+      "id": 2,
+      "name": true,
+      "brand": true,
+      "amount": false,
+      "price": false,
+      "image": true
+    }, {
+      "id": 3,
+      "name": false,
+      "brand": false,
+      "amount": true,
+      "price": true,
+      "image": true
+    }, {
+      "id": 4,
+      "name": true,
+      "brand": false,
+      "amount": true,
+      "price": false,
+      "image": true
+    }, {
+      "id": 5,
+      "name": true,
+      "brand": false,
+      "amount": false,
+      "price": false,
+      "image": false
+    }, {
+      "id": 6,
+      "name": false,
+      "brand": false,
+      "amount": true,
+      "price": false,
+      "image": false
+    }, {
+      "id": 7,
+      "name": true,
+      "brand": false,
+      "amount": false,
+      "price": false,
+      "image": true
+    }, {
+      "id": 8,
+      "name": false,
+      "brand": false,
+      "amount": false,
+      "price": false,
+      "image": false
+    }, {
+      "id": 9,
+      "name": false,
+      "brand": false,
+      "amount": true,
+      "price": true,
+      "image": false
+    }, {
+      "id": 10,
+      "name": true,
+      "brand": false,
+      "amount": true,
+      "price": false,
+      "image": true
+    }, {
+      "id": 11,
+      "name": true,
+      "brand": false,
+      "amount": false,
+      "price": true,
+      "image": false
+    }, {
+      "id": 12,
+      "name": false,
+      "brand": false,
+      "amount": false,
+      "price": false,
+      "image": false
+    }, {
+      "id": 13,
+      "name": false,
+      "brand": false,
+      "amount": true,
+      "price": true,
+      "image": false
+    }, {
+      "id": 14,
+      "name": true,
+      "brand": false,
+      "amount": true,
+      "price": true,
+      "image": false
+    }, {
+      "id": 15,
+      "name": false,
+      "brand": true,
+      "amount": false,
+      "price": true,
+      "image": true
+    }, {
+      "id": 16,
+      "name": true,
+      "brand": false,
+      "amount": true,
+      "price": true,
+      "image": true
+    }, {
+      "id": 17,
+      "name": true,
+      "brand": true,
+      "amount": true,
+      "price": true,
+      "image": true
+    }, {
+      "id": 18,
+      "name": false,
+      "brand": true,
+      "amount": false,
+      "price": false,
+      "image": true
+    }, {
+      "id": 19,
+      "name": true,
+      "brand": true,
+      "amount": false,
+      "price": false,
+      "image": true
+    }, {
+      "id": 20,
+      "name": true,
+      "brand": true,
+      "amount": false,
+      "price": true,
+      "image": false
+}
+    ]
     
   }
 
