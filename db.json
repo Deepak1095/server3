@@ -31,7 +31,7 @@
         "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
         "amount":"50gm", 
         "brand":" Lotus Professioanl",
-        "price":"646",
+        "price":"1646",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg"
       },
       {
@@ -39,14 +39,14 @@
         "name":"O3+ Derma Cult Vitamin-C Tonic Solution",
         "amount":"200gm", 
         "brand":"O3+",
-        "price":"533",      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
+        "price":"1533",      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
       },
       {
         "id":"3",
         "name":"O3+ Brightening AM & PM Combo",
         "amount":"70gm", 
         "brand":"O3+",
-        "price":"999",
+        "price":"1999",
         "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
       },
       {
@@ -54,7 +54,7 @@
         "name":"O3+ Derma Cult Salicylic + Adaptogen Mask For Acne Marks & Tan Removal",
         "amount":"40gm", 
         "brand":"O3+",
-      "price":"539",
+      "price":"1539",
       "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/0740271o3-0950_7_.jpg"
       },
       {
@@ -62,7 +62,7 @@
         "name":"Faces Canada Hydro Cleanser",
         "amount":"100ml", 
         "brand":"Faces Canada",
-        "price":"479",
+        "price":"1479",
         "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/f/ef93c248903380157734__1_.jpg"
       },
       {
@@ -70,7 +70,7 @@
         "name":"Miss Claire Prestige Anti Dust Daily Pure Cleansing Foam",
         "amount":"150ml", 
         "brand":"Miss Claire",
-        "price":"653",
+        "price":"1653",
         "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
       },
       {
@@ -121,7 +121,7 @@
         "name": "Boroplus Aloe Vera Gel With Green Tea",
         "amount": "200ml",
         "brand": "Boroplus",
-        "price": "360.00",
+        "price": "1360.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9f5a0dd8901248154192_1.jpg"
       }, {
         "id": "3",
@@ -135,42 +135,42 @@
         "name": "TRESemme Pro Pure Moisture Boost Mask With Aloe Essence Sulphate Free & Paraben Free",
         "amount": "300ml",
         "brand": "Tresemme",
-        "price": "651.00",
+        "price": "1651.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/a/0a37fb5trese00000047_1.jpg"
       }, {
         "id": "5",
         "name": "Tresemme Keratin Smooth Hair Serum",
         "amount": "300ml",
         "brand": "Tresemme",
-        "price": "350.00",
+        "price": "1350.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/0/30cb3d88901030871252_1.jpg"
       }, {
         "id":"6",
         "name": "Sunsilk Almond & Honey Shampoo",
         "amount": "370ml",
         "brand": "Sunsilk",
-        "price": "315.00",
+        "price": "1315.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/3/c/3cabc5a8901030805080_2.jpg"
       }, {
         "id": "7",
         "name": "Indulekha Bringha Hair Strengthening Lepam",
         "amount":"200ml",
         "brand": "Indulekha",
-        "price": "603.00",
+        "price": "1603.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/c/8c9c39226479_s1-8901030897429.jpg"
       }, {
         "id": "8",
         "name": "Indulekha Bringha Hair Strengthening Serum",
         "amount": "30ml",
         "brand": "Indulekha",
-        "price": "718.00",
+        "price": "1718.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/23e539226478_s1-8901030897436.jpg"
       }, {
         "id": "9",
         "name": "VLCC Onion & Fenugreek Conditioner",
         "amount": "200ml",
         "brand": "Vlcc",
-        "price": "299.00",
+        "price": "1299.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/e/fe332d68907122014729_1.jpg"
       }, {
         "id": "10",
