@@ -108,7 +108,7 @@
     ],
  
     "hair":[
-      [{
+      {
         "id": "1",
         "name": "Tresemme Pro Pure Damage Recovery Shampoo & Mask Combo",
         "amount":"300ml",
@@ -178,7 +178,7 @@
         "brand": "PLum",
         "price": "1605.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
-      }]
+      }
     ],
     "fragrance":[
       {
