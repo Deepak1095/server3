@@ -25,7 +25,7 @@
         "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
       }
     ],
-    "data":[
+    "face":[
       {
         "id":"1",
         "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
@@ -71,6 +71,39 @@
         "brand":"Miss Claire",
         "price":"653.00",
         "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
+      },
+      {
+        "id": "7",
+        "name": "O3+ Sara Ayurveda Kumkumadi Brightness Facial Kit For Bridal Glow",
+        "amount": "70ml",
+        "brand": "O3+",
+        "price": "1299.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/6/c6f2409o3xxx00000114_0.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Bioderma Pigmentbio Sensitive Areas External Intimate And Friction Areas Brightening Care",
+        "amount": "190ml",
+        "brand": "Bioderma",
+        "price": "2499.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/a/ba8143ebiode00000012-01.jpg"
+
+      },
+      {
+        "id": "9",
+        "name": "Bioderma Pigmentbio C- Concentrate Brightening Pigmentation Cream For Pigmentation Disorders",
+        "amount": "200ml",
+        "brand": "Bioderma",
+        "price": "8999.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/8/7828ca0biode00000033_1.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Bioderma Sebium Gel Moussant Actif Intense Purifying Cleansing Foaming Gel",
+        "amount": "350ml",
+        "brand": "Bioderma",
+        "price":" 3999.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/d/9/d9a841228667_1.jpg"
       }
     ],
  
