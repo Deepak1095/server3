@@ -177,6 +177,146 @@
         "brand": "Plum",
         "price": 325,
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/bea6bd1plumx00000393_gs.jpg"
+      }, {
+        "id": 21,
+        "name": "Olay Moisturising Lotion With Coconut, Caster Seed Oil & Glycerin",
+        "amount": "150ml",
+        "brand": "Olay",
+        "price": 604,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/d/9df17934987176132383_1.jpg"
+      }, {
+        "id": 22,
+        "name": "Pond's Gold Beauty Vitamin E Serum",
+        "amount": "15ml",
+        "brand": "Pond's",
+        "price": 449,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/eedb973ponds00000046_4.jpg"
+      }, {
+        "id": 23,
+        "name": "Vaseline Daily Bright & Calming Body Serum Spray",
+        "amount": "180ml",
+        "brand": "Vasline",
+        "price": 299,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/7/77b439227556_s1-8901030896521.jpg"
+      }, {
+        "id": 24,
+        "name": "Olay Aha & Niacinamide Super Cream , Acne Mark & Spot Removal Cream - For All Skin Types",
+        "amount": "50gm",
+        "brand": "Olay",
+        "price": 1859,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/6/d6b04ddolayx00000086_11.jpg"
+      }, {
+        "id": 25,
+        "name": "Olay Aha & Niacinamide Super Serum , Acne Mark & Spot Removal Serum - For All Skin Types",
+        "amount": "40ml",
+        "brand": "Olay",
+        "price": 929,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/5/1/51e04ddolayx00000084_2.jpg"
+      }, {
+        "id": 26,
+        "name": "Nivea Rose Water Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
+        "amount": "390ml",
+        "brand": "Nivea",
+        "price": 390,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/5/45d6f3fnivea00000105-1.jpg"
+      }, {
+        "id": 27,
+        "name": "Nivea Aloe Vera Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
+        "amount": "390ml",
+        "brand": "Nivea",
+        "price": 431,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/a/aa71f3fnivea00000102-1.jpg"
+      }, {
+        "id": 28,
+        "name": "NIVEA Body Lotion, Aloe Protection SPF 15, For Daily Sun Protection",
+        "amount": "400ml",
+        "brand": "Nivea",
+        "price": 425,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f14a4d18904256010023_1.jpg"
+      }, {
+        "id": 29,
+        "name": "Nivea Body Oil In Lotion Ultra Rich With Natural Almond Oil & Vitamin E, 48h Moisture Care",
+        "amount": "400ml",
+        "brand": "Nivea",
+        "price": 449,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/1/a194e59nivea00000079-1.jpg"
+      }, {
+        "id": 30,
+        "name": "Mamaearth Roots Of Radiance Essence Serum, For Brighting Skin, With Ashwagandha & Turmeric",
+        "amount": "30ml",
+        "brand": "Mamaearth",
+        "price": 599,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/36b5ea98906087777885_8_.jpg"
+      }, {
+        "id": 31,
+        "name": true,
+        "amount": true,
+        "brand": false,
+        "price": false,
+        "image": false
+      }, {
+        "id": 32,
+        "name": true,
+        "amount": true,
+        "brand": false,
+        "price": false,
+        "image": false
+      }, {
+        "id": 33,
+        "name": false,
+        "amount": false,
+        "brand": true,
+        "price": false,
+        "image": false
+      }, {
+        "id": 34,
+        "name": false,
+        "amount": true,
+        "brand": false,
+        "price": true,
+        "image": false
+      }, {
+        "id": 35,
+        "name": true,
+        "amount": false,
+        "brand": false,
+        "price": false,
+        "image": false
+      }, {
+        "id": 36,
+        "name": false,
+        "amount": true,
+        "brand": false,
+        "price": false,
+        "image": true
+      }, {
+        "id": 37,
+        "name": true,
+        "amount": false,
+        "brand": true,
+        "price": true,
+        "image": false
+      }, {
+        "id": 38,
+        "name": true,
+        "amount": false,
+        "brand": false,
+        "price": true,
+        "image": false
+      }, {
+        "id": 39,
+        "name": false,
+        "amount": true,
+        "brand": false,
+        "price": false,
+        "image": false
+      }, {
+        "id": 40,
+        "name": true,
+        "amount": false,
+        "brand": true,
+        "price": true,
+        "image": false
       }
     ],
  
