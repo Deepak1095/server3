@@ -179,8 +179,80 @@
         "price": "1605.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
       }]
+    ],
+    "fragrance":[
+      {
+        "id": "1",
+        "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
+        "amount": "120ml",
+        "brand": "Mamaearth",
+        "price": "299.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/m/e/me-deodorant.jpg"
+      }, {
+        "id": "2",
+        "name": "Mamaearth Eau De Parfum For A Fragrance As Unique As You",
+        "amount": "50ml",
+        "brand": "Mamaearth",
+        "price": "629.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9fd2fca8906087777243__1_.jpg"
+      }, {
+        "id": "3",
+        "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
+        "amount": "120ml",
+        "brand": "Mamaearth",
+        "price": "299.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/m/e/me-deodorant.jpg"
+      }, {
+        "id": "4",
+        "name": "Fogg Bleu Series Island Fragrance Body Spray",
+        "amount": "120ml",
+        "brand": "Fogg",
+        "price": "255.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo21.jpg"
+      }, {
+        "id": "5",
+        "name": "Engage Sport Cool Deodorant For Women, Citrus & Spicy, Skin Friendly",
+        "amount": "165ml",
+        "brand": "Engage",
+        "price": "195.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/5/e54.jpg"
+      }, {
+        "id":"6",
+        "name": "Denver Esteem Hamilton Perfume",
+        "amount": "100ml",
+        "brand": "Denver",
+        "price": "488.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d37.jpg"
+      }, {
+        "id": "7",
+        "name": "Denver Imperial Deodorant For Men",
+        "amount": "200ml",
+        "brand": "Denver",
+        "price": "212.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d35.jpg"
+      }, {
+        "id": "8",
+        "name": "Denver Insight Eau De Perfume",
+        "amount": "100ml",
+        "brand": "Denver",
+        "price": "448.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
+      }, {
+        "id": "9",
+        "name": false,
+        "amount": false,
+        "brand": false,
+        "price": true,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
+      }, {
+        "id": 10,
+        "name": "NIVEA MEN Deodorant - Cool Kick (Pack Of 2)",
+        "amount": "150 ml each",
+        "brand": "Nivea",
+        "price": "378.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/n/6/n6.jpg"
+      }
     ]
-    
   }
 
 
