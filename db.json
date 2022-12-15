@@ -25,7 +25,7 @@
         "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
       }
     ],
-    "face":[
+    "skin":[
       {
         "id":"1",
         "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
@@ -107,148 +107,78 @@
       }
     ],
  
-    "data1":[
-      {
-      "id": 1,
-      "name": false,
-      "brand": true,
-      "amount": true,
-      "price": false,
-      "image": true
-    }, {
-      "id": 2,
-      "name": true,
-      "brand": true,
-      "amount": false,
-      "price": false,
-      "image": true
-    }, {
-      "id": 3,
-      "name": false,
-      "brand": false,
-      "amount": true,
-      "price": true,
-      "image": true
-    }, {
-      "id": 4,
-      "name": true,
-      "brand": false,
-      "amount": true,
-      "price": false,
-      "image": true
-    }, {
-      "id": 5,
-      "name": true,
-      "brand": false,
-      "amount": false,
-      "price": false,
-      "image": false
-    }, {
-      "id": 6,
-      "name": false,
-      "brand": false,
-      "amount": true,
-      "price": false,
-      "image": false
-    }, {
-      "id": 7,
-      "name": true,
-      "brand": false,
-      "amount": false,
-      "price": false,
-      "image": true
-    }, {
-      "id": 8,
-      "name": false,
-      "brand": false,
-      "amount": false,
-      "price": false,
-      "image": false
-    }, {
-      "id": 9,
-      "name": false,
-      "brand": false,
-      "amount": true,
-      "price": true,
-      "image": false
-    }, {
-      "id": 10,
-      "name": true,
-      "brand": false,
-      "amount": true,
-      "price": false,
-      "image": true
-    }, {
-      "id": 11,
-      "name": true,
-      "brand": false,
-      "amount": false,
-      "price": true,
-      "image": false
-    }, {
-      "id": 12,
-      "name": false,
-      "brand": false,
-      "amount": false,
-      "price": false,
-      "image": false
-    }, {
-      "id": 13,
-      "name": false,
-      "brand": false,
-      "amount": true,
-      "price": true,
-      "image": false
-    }, {
-      "id": 14,
-      "name": true,
-      "brand": false,
-      "amount": true,
-      "price": true,
-      "image": false
-    }, {
-      "id": 15,
-      "name": false,
-      "brand": true,
-      "amount": false,
-      "price": true,
-      "image": true
-    }, {
-      "id": 16,
-      "name": true,
-      "brand": false,
-      "amount": true,
-      "price": true,
-      "image": true
-    }, {
-      "id": 17,
-      "name": true,
-      "brand": true,
-      "amount": true,
-      "price": true,
-      "image": true
-    }, {
-      "id": 18,
-      "name": false,
-      "brand": true,
-      "amount": false,
-      "price": false,
-      "image": true
-    }, {
-      "id": 19,
-      "name": true,
-      "brand": true,
-      "amount": false,
-      "price": false,
-      "image": true
-    }, {
-      "id": 20,
-      "name": true,
-      "brand": true,
-      "amount": false,
-      "price": true,
-      "image": false
-}
+    "hair":[
+      [{
+        "id": "1",
+        "name": "Tresemme Pro Pure Damage Recovery Shampoo & Mask Combo",
+        "amount":"300ml",
+        "brand": "Tresemme",
+        "price": "1116.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/6/f658864trese00000061_1.jpg"
+      }, {
+        "id": "2",
+        "name": "Boroplus Aloe Vera Gel With Green Tea",
+        "amount": "200ml",
+        "brand": "Boroplus",
+        "price": "360.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9f5a0dd8901248154192_1.jpg"
+      }, {
+        "id": "3",
+        "name": "Bioderma Node DS+ Shampooing Anti-Dandruff Intense Shampoo",
+        "amount": "125ml",
+        "brand": "Bioderma",
+        "price": "1527.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/3/93d343en_3401344957253-01.jpg"
+      }, {
+        "id": "4",
+        "name": "TRESemme Pro Pure Moisture Boost Mask With Aloe Essence Sulphate Free & Paraben Free",
+        "amount": "300ml",
+        "brand": "Tresemme",
+        "price": "651.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/a/0a37fb5trese00000047_1.jpg"
+      }, {
+        "id": "5",
+        "name": "Tresemme Keratin Smooth Hair Serum",
+        "amount": "300ml",
+        "brand": "Tresemme",
+        "price": "350.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/0/30cb3d88901030871252_1.jpg"
+      }, {
+        "id":"6",
+        "name": "Sunsilk Almond & Honey Shampoo",
+        "amount": "370ml",
+        "brand": "Sunsilk",
+        "price": "315.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/3/c/3cabc5a8901030805080_2.jpg"
+      }, {
+        "id": "7",
+        "name": "Indulekha Bringha Hair Strengthening Lepam",
+        "amount":"200ml",
+        "brand": "Indulekha",
+        "price": "603.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/c/8c9c39226479_s1-8901030897429.jpg"
+      }, {
+        "id": "8",
+        "name": "Indulekha Bringha Hair Strengthening Serum",
+        "amount": "30ml",
+        "brand": "Indulekha",
+        "price": "718.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/23e539226478_s1-8901030897436.jpg"
+      }, {
+        "id": "9",
+        "name": "VLCC Onion & Fenugreek Conditioner",
+        "amount": "200ml",
+        "brand": "Vlcc",
+        "price": "299.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/e/fe332d68907122014729_1.jpg"
+      }, {
+        "id": "10",
+        "name": "Plum Avocado Daily Haircare Kit For Frizzy Hair Silicone & Sulphate Free",
+        "amount": "600ml",
+        "brand": "PLum",
+        "price": "1605.00",
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
+      }]
     ]
     
   }
