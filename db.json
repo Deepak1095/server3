@@ -240,10 +240,10 @@
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
       }, {
         "id": "9",
-        "name": false,
-        "amount": false,
-        "brand": false,
-        "price": true,
+        "name": "Denver Esteem Hamilton Perfume",
+        "amount": "40ml",
+        "brand": "Denver",
+        "price": "599",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
       }, {
         "id": 10,
