@@ -249,74 +249,74 @@
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/36b5ea98906087777885_8_.jpg"
       }, {
         "id": 31,
-        "name": true,
-        "amount": true,
-        "brand": false,
-        "price": false,
-        "image": false
+        "name": "Mamaearth Bye Bye Acne Face Cream With Willow Bark Extract & Salicylic Acid",
+        "amount": "30gm",
+        "brand": "Mamaearth",
+        "price": 399,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/a/da567c48906087778141_2_.jpg"
       }, {
         "id": 32,
-        "name": true,
-        "amount": true,
-        "brand": false,
-        "price": false,
-        "image": false
+        "name": "Mamaearthapple Cider Vinegar Foaming Face Wash With Apple Cider Vinegar & Aloe Vera Water",
+        "amount": "150ml",
+        "brand": "Mamaearth",
+        "price": 399,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/e/0ea7df78906087775317_7.jpg"
       }, {
         "id": 33,
-        "name": false,
-        "amount": false,
-        "brand": true,
-        "price": false,
-        "image": false
+        "name": "Mamaearth Neem Face Mask With Neem & Tea Tree For Pimples & Zits",
+        "amount": "100gm",
+        "brand": "Mamaearth",
+        "price": 424,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-227.jpg"
       }, {
         "id": 34,
-        "name": false,
-        "amount": true,
-        "brand": false,
-        "price": true,
-        "image": false
+        "name": "Mamaearth Vitamin C 100% Natural Lip Care Kit With Lip Scrub & Lip Mask For Pink And Plump Lips",
+        "amount": "90ml",
+        "brand": "Mamaearth",
+        "price": 539,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b27b3898906087777496__6_.jpg"
       }, {
         "id": 35,
-        "name": true,
-        "amount": false,
-        "brand": false,
-        "price": false,
-        "image": false
+        "name": "Mamaearth Leaves Of Clarity Essence Serum, For Acne Prone, With Neem & Salicylic Acid",
+        "amount": "30ml",
+        "brand": "Mamaearth",
+        "price": 599,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/ea4bea98906087777878_8_.jpg"
       }, {
         "id": 36,
-        "name": false,
-        "amount": true,
-        "brand": false,
-        "price": false,
-        "image": true
+        "name": "Mamaearth Green Tea Face Serum With Green Tea & Collagen For Open Pores - Moisturizers",
+        "amount": "30ml",
+        "brand": "Mamaearth",
+        "price": 629,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0dd494d8904417301106_1.jpg"
       }, {
         "id": 37,
-        "name": true,
-        "amount": false,
-        "brand": true,
-        "price": true,
-        "image": false
+        "name": "L'Oreal Paris Revitalift Deep Purifying Crystal Cleansing Gel",
+        "amount": "120ml",
+        "brand": "L'Oreal Paris",
+        "price": 499,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/0/209f77clorea00000342_5.jpg"
       }, {
         "id": 38,
-        "name": true,
-        "amount": false,
-        "brand": false,
-        "price": true,
-        "image": false
+        "name": "L'Oreal Paris Glycolic Bright Day Cream With SPF 17",
+        "amount": "50ml",
+        "brand": "L'Oreal Paris",
+        "price": 629,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/f/6f830b98994993016525_8.jpg"
       }, {
         "id": 39,
-        "name": false,
-        "amount": true,
-        "brand": false,
-        "price": false,
-        "image": false
+        "name": "L'oreal Paris Revitalift Triple Action Renewing Anti-Aging Serum",
+        "amount": "30ml",
+        "brand": "L'Oreal Paris",
+        "price": 1652,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f1e21ab6923700958621_5.jpg"
       }, {
         "id": 40,
-        "name": true,
-        "amount": false,
-        "brand": true,
-        "price": true,
-        "image": false
+        "name": "L'Oreal Paris Revitalift Crystal Gel Cream | Oil-Free Face Moisturizer With Salicylic Acid",
+        "amount": "50ml",
+        "brand": "L'Oreal Paris",
+        "price": 629,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/231cf79lorea00000172_8.jpg"
       }
     ],
  
