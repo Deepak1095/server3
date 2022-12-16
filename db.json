@@ -391,6 +391,168 @@
         "brand": "PLum",
         "price": "1605.00",
         "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Plum Tea Tree Anti- Dandruff Sulphate Free & Paraben Free Scalp Serum",
+        "amount": "110ml",
+        "brand": "Plum",
+        "price": 585,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/0/40dc6c4plumx00000199_new2.jpg"
+      }, {
+        "id": 12,
+        "name": "Plum Ginseng Sulphate Free & Paraben Free Scalp Serum For Hairfall Control And Hair Growth",
+        "amount": "110ml",
+        "brand": "Plum",
+        "price": 585,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0d6d6c4plumx00000086_new2.jpg"
+      }, {
+        "id": 13,
+        "name": "Plum Avocado Smoothin' It Sulphate Free & Paraben Free Conditioner With Almond Oil For Smooth Hair",
+        "amount": "200ml",
+        "brand": "Plum",
+        "price": 458,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/4/74ac6c4plumx00000082_newgs.jpg"
+      }, {
+        "id": 14,
+        "name": "Mamaearth Almond Hair Mask, For Smoothening Hair, With Cold Pressed Almond Oil & Vitamin E",
+        "amount": "200ml",
+        "brand": "Mamaearth",
+        "price": 527,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/e/6e72a408906087778103_2_.jpg"
+      }, {
+        "id": 15,
+        "name": "Mamaearth Rice Wonder Water Hair Serum For Detangled Hair In 7 Seconds Rice Water & Keratin",
+        "amount": "100ml",
+        "brand": "Mamaearth",
+        "price": 349,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41fxobh1b0l._sl1201_.jpg"
+      }, {
+        "id": 16,
+        "name": "L'Oreal Paris Excellence Fashion - Shade 9.13 Golden Beige Blonde",
+        "amount": "172ml",
+        "brand": "L'Oreal Paris",
+        "price": 650,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/0/f06ada86923700922165_1.jpg"
+      }, {
+        "id": 17,
+        "name": "L'Oreal Paris Extraordinary Oil Smooth Conditioner (Paraben Free) 440 Ml | Nourishing Conditioner",
+        "amount": "440ml",
+        "brand": "L'Oreal Paris",
+        "price": 899,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/f/4f725balorea00000245_8.jpg"
+      }, {
+        "id": 18,
+        "name": "L'Oreal Paris Extraordinary Oil Smooth Shampoo(Paraben & Silicone Free) 440ml| Nourishing Shampoo",
+        "amount": "440ml",
+        "brand": "L'Oreal Paris",
+        "price": 899,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/8/08195balorea00000247_8.jpg"
+      }, {
+        "id": 19,
+        "name": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/c/fc6915f8901526603466_8.jpg",
+        "amount": "650ml",
+        "brand": "L'Oreal Paris",
+        "price": 719,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/c/fc6915f8901526603466_8.jpg"
+      }, {
+        "id": 20,
+        "name": "L'Oreal Paris Hyaluron Moisture 72H Hydra Filling Night Cream Hair Cream",
+        "amount": "180ml",
+        "brand": "L'Oreal Paris",
+        "price": 499,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/c/0c7d15f8901526603428_10.jpg"
+      }, {
+        "id": 21,
+        "name": "Dove Hydrating Cleanse Shampoo For Curly",
+        "amount": "340ml",
+        "brand": "Dove",
+        "price": 999,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/079400471338-1817842-png.png.ulenscale.490x490.png"
+      }, {
+        "id": 22,
+        "name": "Dove Amplified Moisture Spa Recovery Hair Mask For Curls & Coils With Intense Nourishment",
+        "amount": "297ml",
+        "brand": "Dove",
+        "price": 899,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41wg_ca9rkl._sl1000_.jpg"
+      }, {
+        "id": 23,
+        "name": "Dove Amplified Super Slip Detangling Conditioner For Frizzy Hair",
+        "amount": "340ml",
+        "brand": "Dove",
+        "price": 999,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/a/fa4551e79400471345_fop.jpg"
+      }, {
+        "id": 24,
+        "name": "Dove Twist In Moisture Shaping Butter Cream",
+        "amount": "297ml",
+        "brand": "Dove",
+        "price": 949,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-22.jpg"
+      }, {
+        "id": 25,
+        "name": "Dove Shine And Moisture Finishing Gel",
+        "amount": "236ml",
+        "brand": "Dove",
+        "price": 849,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/5/a58c51e79400471291_fop.jpg"
+      }, {
+        "id": 26,
+        "name": "Dove Fresh & Floral Dry Shampoo",
+        "amount": "141ml",
+        "brand": "Dove",
+        "price": 563,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/5/0/509cc6679400449344_2.jpg"
+      }, {
+        "id": 27,
+        "name": "Dove Hair Therapy Dry Scalp Care Leave-On Solution Sulphate And Parabens Free",
+        "amount": "100ml",
+        "brand": "Dove",
+        "price": 540,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b26bb5926468-s2-8901030886058.jpg"
+      }, {
+        "id": 28,
+        "name": "Dove Hair Therapy Breakage Repair Leave-On Solution No Parabens & Dyes",
+        "amount": "100ml",
+        "brand": "Dove",
+        "price": 540,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/6/c6d5b5926467-s2-8901030886089.jpg"
+      }, {
+        "id": 29,
+        "name": "Biotique Bio Neem Margosa Anti - Dandurff Shampoo & Conditioner",
+        "amount": "800ml",
+        "brand": "Biotique",
+        "price": 603,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/4/b45c0fb8906009452159_gs.jpg"
+      }, {
+        "id": 30,
+        "name": "Biotique Advanced Organics Onion Black Seed Hair Oil",
+        "amount": "330ml",
+        "brand": "Biotique",
+        "price": 330,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/eaa56b68904317304917_1.jpg"
+      },{
+        "id": 31,
+        "name": "Biotique Bio Henna Leaf Fresh Texture Shampoo & Conditioner",
+        "amount": "650ml",
+        "brand": "Biotique",
+        "price": 450,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/2/c2fb0fb8904317300261_1.jpg"
+      }, {
+        "id": 32,
+        "name": "Biotique Bio Walnut Bark Volumizing Shampoo For Fine & Thinning Hair",
+        "amount": "650ml",
+        "brand": "Biotique",
+        "price": 450,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/ee4d0fb8904317300100_1.jpg"
+      }, {
+        "id": 33,
+        "name": "Biotique Fresh Neem Anti-Dandruff Shampoo & Conditioner",
+        "amount": "650ml",
+        "brand": "Biotique",
+        "price": 535,
+        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904317300346_1.jpg"
       }
     ],
     "fragrance":[
