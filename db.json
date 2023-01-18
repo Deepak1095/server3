@@ -1,728 +1,1433 @@
 {
-    "masai": [
-      {
-        "id": "1",
-        "name": "Saini",
-        "batch": "Phoenix",
-        "section": "C",
-        "score": 8,
-        "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
-      },
-      {
-        "id": "2",
-        "name": "Pavan",
-        "batch": "Ninja",
-        "section": "A",
-        "score": 3,
-        "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
-      },
-      {
-        "id": "3",
-        "name": "Praveen",
-        "batch": "Samurai",
-        "section": "B",
-        "score": 5,
-        "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
-      }
-    ],
-    "skin":[
-      {
-        "id":1,
-        "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
-        "amount":"50gm", 
-        "brand":" Lotus Professioanl",
-        "price":164,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg"
-      },
-      {
-        "id":2,
-        "name":"O3+ Derma Cult Vitamin-C Tonic Solution",
-        "amount":"200gm", 
-        "brand":"O3+",
-        "price":533,      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
-      },
-      {
-        "id":3,
-        "name":"O3+ Brightening AM & PM Combo",
-        "amount":"70gm", 
-        "brand":"O3+",
-        "price":999,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
-      },
-      {
-        "id":4,
-        "name":"O3+ Derma Cult Salicylic + Adaptogen Mask For Acne Marks & Tan Removal",
-        "amount":"40gm", 
-        "brand":"O3+",
-      "price":1539,
-      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/0740271o3-0950_7_.jpg"
-      },
-      {
-        "id":5,
-        "name":"Faces Canada Hydro Cleanser",
-        "amount":"100ml", 
-        "brand":"Faces Canada",
-        "price":479,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/f/ef93c248903380157734__1_.jpg"
-      },
-      {
-        "id":6,
-        "name":"Miss Claire Prestige Anti Dust Daily Pure Cleansing Foam",
-        "amount":"150ml", 
-        "brand":"Miss Claire",
-        "price":653,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
-      },
-      {
-        "id": 7,
-        "name": "O3+ Sara Ayurveda Kumkumadi Brightness Facial Kit For Bridal Glow",
-        "amount": "70ml",
-        "brand": "O3+",
-        "price": 1299,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/6/c6f2409o3xxx00000114_0.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Bioderma Pigmentbio Sensitive Areas External Intimate And Friction Areas Brightening Care",
-        "amount": "190ml",
-        "brand": "Bioderma",
-        "price": 2499,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/a/ba8143ebiode00000012-01.jpg"
+  "masai": [
+    {
+      "id": "1",
+      "name": "Saini",
+      "batch": "Phoenix",
+      "section": "C",
+      "score": 8,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pavan",
+      "batch": "Ninja",
+      "section": "A",
+      "score": 3,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Praveen",
+      "batch": "Samurai",
+      "section": "B",
+      "score": 5,
+      "image": "https://allworldpm.com/wp-content/uploads/2016/10/230x230-avatar-dummy-profile-pic.jpg"
+    }
+  ],
+  "skin":[
+    {
+      "id":1,
+      "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
+      "amount":"50gm", 
+      "brand":" Lotus Professioanl",
+      "price":164,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg"
+    },
+    {
+      "id":2,
+      "name":"O3+ Derma Cult Vitamin-C Tonic Solution",
+      "amount":"200gm", 
+      "brand":"O3+",
+      "price":533,      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
+    },
+    {
+      "id":3,
+      "name":"O3+ Brightening AM & PM Combo",
+      "amount":"70gm", 
+      "brand":"O3+",
+      "price":999,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
+    },
+    {
+      "id":4,
+      "name":"O3+ Derma Cult Salicylic + Adaptogen Mask For Acne Marks & Tan Removal",
+      "amount":"40gm", 
+      "brand":"O3+",
+    "price":1539,
+    "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/0740271o3-0950_7_.jpg"
+    },
+    {
+      "id":5,
+      "name":"Faces Canada Hydro Cleanser",
+      "amount":"100ml", 
+      "brand":"Faces Canada",
+      "price":479,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/f/ef93c248903380157734__1_.jpg"
+    },
+    {
+      "id":6,
+      "name":"Miss Claire Prestige Anti Dust Daily Pure Cleansing Foam",
+      "amount":"150ml", 
+      "brand":"Miss Claire",
+      "price":653,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "O3+ Sara Ayurveda Kumkumadi Brightness Facial Kit For Bridal Glow",
+      "amount": "70ml",
+      "brand": "O3+",
+      "price": 1299,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/6/c6f2409o3xxx00000114_0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bioderma Pigmentbio Sensitive Areas External Intimate And Friction Areas Brightening Care",
+      "amount": "190ml",
+      "brand": "Bioderma",
+      "price": 2499,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/a/ba8143ebiode00000012-01.jpg"
 
-      },
-      {
-        "id": 9,
-        "name": "Bioderma Pigmentbio C- Concentrate Brightening Pigmentation Cream For Pigmentation Disorders",
-        "amount": "200ml",
-        "brand": "Bioderma",
-        "price": 899,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/8/7828ca0biode00000033_1.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Bioderma Sebium Gel Moussant Actif Intense Purifying Cleansing Foaming Gel",
-        "amount": "350ml",
-        "brand": "Bioderma",
-        "price":399,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/d/9/d9a841228667_1.jpg"
-      },
-      {
-        "id": 11,
-        "name": "Beeone Aloevera Cream 500ml",
-        "amount": "500ml",
-        "brand": "Beeone",
-        "price": 171,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be24.jpg"
-      },
-      {
-        "id": 12,
-        "name": "Bioderma Sensibio H2O Makeup Removing Micellar Cleansing Solution Face & Eyes Sensitive Skin - 250ml",
-        "amount": "250ml",
-        "brand": "Bioderma",
-        "price": "910",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/5/85ee43en_3401575390447-01.jpg"
-      }, {
-        "id": 13,
-        "name": "Shahnaz Husain Honey Health Mud Mask",
-        "amount": "100gm",
-        "brand": "Shahnaz Husain",
-        "price": 626,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/d/cdbb6b9205000000436709_rev1.jpg"
-      }, {
-        "id": 14,
-        "name": "Shahnaz Husain Pearl Cream White Naturally Rehydrant Moisturizer",
-        "amount": "40gm",
-        "brand": "Shahnaz Husain",
-        "price": 1088,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/7/a7fa1af205000000436857.jpg"
-      }, {
-        "id": 15,
-        "name": "VLCC Vitamin C Night Serum",
-        "amount": "30ml",
-        "brand": "Vlcc",
-        "price": 656,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/7/a77dd098907122015467.jpg"
-      }, {
-        "id": 16,
-        "name": "Ponds Bright Beauty Foaming Brush Facewash For Glowing Skin",
-        "amount": "150ml",
-        "brand": "Pond's",
-        "price": 399,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/8/d85648627520_s1-8901030881978.jpg"
-      }, {
-        "id": 17,
-        "name": "VLCC Water Resistant SPF60 Sun Screen Gel Crème",
-        "amount": "100gm",
-        "brand": "Vlcc",
-        "price": 460,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-1_1_3.jpg"
-      }, {
-        "id": 18,
-        "name": "Vaseline Healthy Bright Complete 10 Body Lotion - 400ml",
-        "amount": "400ml",
-        "brand": "Vasline",
-        "price": 425,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/2/12720_s1-8901030852619.jpg"
-      }, {
-        "id": 19,
-        "name": "Ponds Pure Detox Foaming Brush Face Wash For Clear Glow",
-        "amount": "150ml",
-        "brand": "Pond's",
-        "price": 404,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/8/88c248627521_s1-8901030881985.jpg"
-      }, {
-        "id": 20,
-        "name": "Plum Salicylic Acid Foaming Face Wash With Fruit AHAs",
-        "amount": "110ml",
-        "brand": "Plum",
-        "price": 325,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/bea6bd1plumx00000393_gs.jpg"
-      }, {
-        "id": 21,
-        "name": "Olay Moisturising Lotion With Coconut, Caster Seed Oil & Glycerin",
-        "amount": "150ml",
-        "brand": "Olay",
-        "price": 604,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/d/9df17934987176132383_1.jpg"
-      }, {
-        "id": 22,
-        "name": "Pond's Gold Beauty Vitamin E Serum",
-        "amount": "15ml",
-        "brand": "Pond's",
-        "price": 449,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/eedb973ponds00000046_4.jpg"
-      }, {
-        "id": 23,
-        "name": "Vaseline Daily Bright & Calming Body Serum Spray",
-        "amount": "180ml",
-        "brand": "Vasline",
-        "price": 299,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/7/77b439227556_s1-8901030896521.jpg"
-      }, {
-        "id": 24,
-        "name": "Olay Aha & Niacinamide Super Cream , Acne Mark & Spot Removal Cream - For All Skin Types",
-        "amount": "50gm",
-        "brand": "Olay",
-        "price": 1859,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/6/d6b04ddolayx00000086_11.jpg"
-      }, {
-        "id": 25,
-        "name": "Olay Aha & Niacinamide Super Serum , Acne Mark & Spot Removal Serum - For All Skin Types",
-        "amount": "40ml",
-        "brand": "Olay",
-        "price": 929,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/5/1/51e04ddolayx00000084_2.jpg"
-      }, {
-        "id": 26,
-        "name": "Nivea Rose Water Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
-        "amount": "390ml",
-        "brand": "Nivea",
-        "price": 390,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/5/45d6f3fnivea00000105-1.jpg"
-      }, {
-        "id": 27,
-        "name": "Nivea Aloe Vera Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
-        "amount": "390ml",
-        "brand": "Nivea",
-        "price": 431,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/a/aa71f3fnivea00000102-1.jpg"
-      }, {
-        "id": 28,
-        "name": "NIVEA Body Lotion, Aloe Protection SPF 15, For Daily Sun Protection",
-        "amount": "400ml",
-        "brand": "Nivea",
-        "price": 425,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f14a4d18904256010023_1.jpg"
-      }, {
-        "id": 29,
-        "name": "Nivea Body Oil In Lotion Ultra Rich With Natural Almond Oil & Vitamin E, 48h Moisture Care",
-        "amount": "400ml",
-        "brand": "Nivea",
-        "price": 449,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/1/a194e59nivea00000079-1.jpg"
-      }, {
-        "id": 30,
-        "name": "Mamaearth Roots Of Radiance Essence Serum, For Brighting Skin, With Ashwagandha & Turmeric",
-        "amount": "30ml",
-        "brand": "Mamaearth",
-        "price": 599,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/36b5ea98906087777885_8_.jpg"
-      }, {
-        "id": 31,
-        "name": "Mamaearth Bye Bye Acne Face Cream With Willow Bark Extract & Salicylic Acid",
-        "amount": "30gm",
-        "brand": "Mamaearth",
-        "price": 399,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/a/da567c48906087778141_2_.jpg"
-      }, {
-        "id": 32,
-        "name": "Mamaearthapple Cider Vinegar Foaming Face Wash With Apple Cider Vinegar & Aloe Vera Water",
-        "amount": "150ml",
-        "brand": "Mamaearth",
-        "price": 399,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/e/0ea7df78906087775317_7.jpg"
-      }, {
-        "id": 33,
-        "name": "Mamaearth Neem Face Mask With Neem & Tea Tree For Pimples & Zits",
-        "amount": "100gm",
-        "brand": "Mamaearth",
-        "price": 424,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-227.jpg"
-      }, {
-        "id": 34,
-        "name": "Mamaearth Vitamin C 100% Natural Lip Care Kit With Lip Scrub & Lip Mask For Pink And Plump Lips",
-        "amount": "90ml",
-        "brand": "Mamaearth",
-        "price": 539,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b27b3898906087777496__6_.jpg"
-      }, {
-        "id": 35,
-        "name": "Mamaearth Leaves Of Clarity Essence Serum, For Acne Prone, With Neem & Salicylic Acid",
-        "amount": "30ml",
-        "brand": "Mamaearth",
-        "price": 599,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/ea4bea98906087777878_8_.jpg"
-      }, {
-        "id": 36,
-        "name": "Mamaearth Green Tea Face Serum With Green Tea & Collagen For Open Pores - Moisturizers",
-        "amount": "30ml",
-        "brand": "Mamaearth",
-        "price": 629,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0dd494d8904417301106_1.jpg"
-      }, {
-        "id": 37,
-        "name": "L'Oreal Paris Revitalift Deep Purifying Crystal Cleansing Gel",
-        "amount": "120ml",
-        "brand": "L'Oreal Paris",
-        "price": 499,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/0/209f77clorea00000342_5.jpg"
-      }, {
-        "id": 38,
-        "name": "L'Oreal Paris Glycolic Bright Day Cream With SPF 17",
-        "amount": "50ml",
-        "brand": "L'Oreal Paris",
-        "price": 629,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/f/6f830b98994993016525_8.jpg"
-      }, {
-        "id": 39,
-        "name": "L'oreal Paris Revitalift Triple Action Renewing Anti-Aging Serum",
-        "amount": "30ml",
-        "brand": "L'Oreal Paris",
-        "price": 1652,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f1e21ab6923700958621_5.jpg"
-      }, {
-        "id": 40,
-        "name": "L'Oreal Paris Revitalift Crystal Gel Cream | Oil-Free Face Moisturizer With Salicylic Acid",
-        "amount": "50ml",
-        "brand": "L'Oreal Paris",
-        "price": 629,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/231cf79lorea00000172_8.jpg"
-      },  {
-        "id":41,
-        "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
-        "amount":"50gm", 
-        "brand":" Lotus Professioanl",
-        "price":164,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg"
-      },
-      {
-        "id":42,
-        "name":"O3+ Derma Cult Vitamin-C Tonic Solution",
-        "amount":"200gm", 
-        "brand":"O3+",
-        "price":533,      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
-      },
-      {
-        "id":43,
-        "name":"O3+ Brightening AM & PM Combo",
-        "amount":"70gm", 
-        "brand":"O3+",
-        "price":999,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
-      },
-      {
-        "id":44,
-        "name":"O3+ Derma Cult Salicylic + Adaptogen Mask For Acne Marks & Tan Removal",
-        "amount":"40gm", 
-        "brand":"O3+",
-      "price":1539,
-      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/0740271o3-0950_7_.jpg"
-      },
-      {
-        "id":45,
-        "name":"Faces Canada Hydro Cleanser",
-        "amount":"100ml", 
-        "brand":"Faces Canada",
-        "price":479,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/f/ef93c248903380157734__1_.jpg"
-      },
-      {
-        "id":46,
-        "name":"Miss Claire Prestige Anti Dust Daily Pure Cleansing Foam",
-        "amount":"150ml", 
-        "brand":"Miss Claire",
-        "price":653,
-        "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
-      },
-      {
-        "id": 47,
-        "name": "O3+ Sara Ayurveda Kumkumadi Brightness Facial Kit For Bridal Glow",
-        "amount": "70ml",
-        "brand": "O3+",
-        "price": 1299,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/6/c6f2409o3xxx00000114_0.jpg"
-      },
-      {
-        "id": 48,
-        "name": "Bioderma Pigmentbio Sensitive Areas External Intimate And Friction Areas Brightening Care",
-        "amount": "190ml",
-        "brand": "Bioderma",
-        "price": 2499,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/a/ba8143ebiode00000012-01.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bioderma Pigmentbio C- Concentrate Brightening Pigmentation Cream For Pigmentation Disorders",
+      "amount": "200ml",
+      "brand": "Bioderma",
+      "price": 899,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/8/7828ca0biode00000033_1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bioderma Sebium Gel Moussant Actif Intense Purifying Cleansing Foaming Gel",
+      "amount": "350ml",
+      "brand": "Bioderma",
+      "price":399,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/d/9/d9a841228667_1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Beeone Aloevera Cream 500ml",
+      "amount": "500ml",
+      "brand": "Beeone",
+      "price": 171,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be24.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bioderma Sensibio H2O Makeup Removing Micellar Cleansing Solution Face & Eyes Sensitive Skin - 250ml",
+      "amount": "250ml",
+      "brand": "Bioderma",
+      "price": "910",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/5/85ee43en_3401575390447-01.jpg"
+    }, {
+      "id": 13,
+      "name": "Shahnaz Husain Honey Health Mud Mask",
+      "amount": "100gm",
+      "brand": "Shahnaz Husain",
+      "price": 626,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/d/cdbb6b9205000000436709_rev1.jpg"
+    }, {
+      "id": 14,
+      "name": "Shahnaz Husain Pearl Cream White Naturally Rehydrant Moisturizer",
+      "amount": "40gm",
+      "brand": "Shahnaz Husain",
+      "price": 1088,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/7/a7fa1af205000000436857.jpg"
+    }, {
+      "id": 15,
+      "name": "VLCC Vitamin C Night Serum",
+      "amount": "30ml",
+      "brand": "Vlcc",
+      "price": 656,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/7/a77dd098907122015467.jpg"
+    }, {
+      "id": 16,
+      "name": "Ponds Bright Beauty Foaming Brush Facewash For Glowing Skin",
+      "amount": "150ml",
+      "brand": "Pond's",
+      "price": 399,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/8/d85648627520_s1-8901030881978.jpg"
+    }, {
+      "id": 17,
+      "name": "VLCC Water Resistant SPF60 Sun Screen Gel Crème",
+      "amount": "100gm",
+      "brand": "Vlcc",
+      "price": 460,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-1_1_3.jpg"
+    }, {
+      "id": 18,
+      "name": "Vaseline Healthy Bright Complete 10 Body Lotion - 400ml",
+      "amount": "400ml",
+      "brand": "Vasline",
+      "price": 425,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/2/12720_s1-8901030852619.jpg"
+    }, {
+      "id": 19,
+      "name": "Ponds Pure Detox Foaming Brush Face Wash For Clear Glow",
+      "amount": "150ml",
+      "brand": "Pond's",
+      "price": 404,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/8/88c248627521_s1-8901030881985.jpg"
+    }, {
+      "id": 20,
+      "name": "Plum Salicylic Acid Foaming Face Wash With Fruit AHAs",
+      "amount": "110ml",
+      "brand": "Plum",
+      "price": 325,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/bea6bd1plumx00000393_gs.jpg"
+    }, {
+      "id": 21,
+      "name": "Olay Moisturising Lotion With Coconut, Caster Seed Oil & Glycerin",
+      "amount": "150ml",
+      "brand": "Olay",
+      "price": 604,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/d/9df17934987176132383_1.jpg"
+    }, {
+      "id": 22,
+      "name": "Pond's Gold Beauty Vitamin E Serum",
+      "amount": "15ml",
+      "brand": "Pond's",
+      "price": 449,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/eedb973ponds00000046_4.jpg"
+    }, {
+      "id": 23,
+      "name": "Vaseline Daily Bright & Calming Body Serum Spray",
+      "amount": "180ml",
+      "brand": "Vasline",
+      "price": 299,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/7/77b439227556_s1-8901030896521.jpg"
+    }, {
+      "id": 24,
+      "name": "Olay Aha & Niacinamide Super Cream , Acne Mark & Spot Removal Cream - For All Skin Types",
+      "amount": "50gm",
+      "brand": "Olay",
+      "price": 1859,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/6/d6b04ddolayx00000086_11.jpg"
+    }, {
+      "id": 25,
+      "name": "Olay Aha & Niacinamide Super Serum , Acne Mark & Spot Removal Serum - For All Skin Types",
+      "amount": "40ml",
+      "brand": "Olay",
+      "price": 929,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/5/1/51e04ddolayx00000084_2.jpg"
+    }, {
+      "id": 26,
+      "name": "Nivea Rose Water Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
+      "amount": "390ml",
+      "brand": "Nivea",
+      "price": 390,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/5/45d6f3fnivea00000105-1.jpg"
+    }, {
+      "id": 27,
+      "name": "Nivea Aloe Vera Gel Body Lotion Non Sticky Feel, 24 Hours Hydration",
+      "amount": "390ml",
+      "brand": "Nivea",
+      "price": 431,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/a/aa71f3fnivea00000102-1.jpg"
+    }, {
+      "id": 28,
+      "name": "NIVEA Body Lotion, Aloe Protection SPF 15, For Daily Sun Protection",
+      "amount": "400ml",
+      "brand": "Nivea",
+      "price": 425,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f14a4d18904256010023_1.jpg"
+    }, {
+      "id": 29,
+      "name": "Nivea Body Oil In Lotion Ultra Rich With Natural Almond Oil & Vitamin E, 48h Moisture Care",
+      "amount": "400ml",
+      "brand": "Nivea",
+      "price": 449,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/1/a194e59nivea00000079-1.jpg"
+    }, {
+      "id": 30,
+      "name": "Mamaearth Roots Of Radiance Essence Serum, For Brighting Skin, With Ashwagandha & Turmeric",
+      "amount": "30ml",
+      "brand": "Mamaearth",
+      "price": 599,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/36b5ea98906087777885_8_.jpg"
+    }, {
+      "id": 31,
+      "name": "Mamaearth Bye Bye Acne Face Cream With Willow Bark Extract & Salicylic Acid",
+      "amount": "30gm",
+      "brand": "Mamaearth",
+      "price": 399,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/a/da567c48906087778141_2_.jpg"
+    }, {
+      "id": 32,
+      "name": "Mamaearthapple Cider Vinegar Foaming Face Wash With Apple Cider Vinegar & Aloe Vera Water",
+      "amount": "150ml",
+      "brand": "Mamaearth",
+      "price": 399,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/e/0ea7df78906087775317_7.jpg"
+    }, {
+      "id": 33,
+      "name": "Mamaearth Neem Face Mask With Neem & Tea Tree For Pimples & Zits",
+      "amount": "100gm",
+      "brand": "Mamaearth",
+      "price": 424,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-227.jpg"
+    }, {
+      "id": 34,
+      "name": "Mamaearth Vitamin C 100% Natural Lip Care Kit With Lip Scrub & Lip Mask For Pink And Plump Lips",
+      "amount": "90ml",
+      "brand": "Mamaearth",
+      "price": 539,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b27b3898906087777496__6_.jpg"
+    }, {
+      "id": 35,
+      "name": "Mamaearth Leaves Of Clarity Essence Serum, For Acne Prone, With Neem & Salicylic Acid",
+      "amount": "30ml",
+      "brand": "Mamaearth",
+      "price": 599,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/ea4bea98906087777878_8_.jpg"
+    }, {
+      "id": 36,
+      "name": "Mamaearth Green Tea Face Serum With Green Tea & Collagen For Open Pores - Moisturizers",
+      "amount": "30ml",
+      "brand": "Mamaearth",
+      "price": 629,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0dd494d8904417301106_1.jpg"
+    }, {
+      "id": 37,
+      "name": "L'Oreal Paris Revitalift Deep Purifying Crystal Cleansing Gel",
+      "amount": "120ml",
+      "brand": "L'Oreal Paris",
+      "price": 499,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/0/209f77clorea00000342_5.jpg"
+    }, {
+      "id": 38,
+      "name": "L'Oreal Paris Glycolic Bright Day Cream With SPF 17",
+      "amount": "50ml",
+      "brand": "L'Oreal Paris",
+      "price": 629,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/f/6f830b98994993016525_8.jpg"
+    }, {
+      "id": 39,
+      "name": "L'oreal Paris Revitalift Triple Action Renewing Anti-Aging Serum",
+      "amount": "30ml",
+      "brand": "L'Oreal Paris",
+      "price": 1652,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/1/f1e21ab6923700958621_5.jpg"
+    }, {
+      "id": 40,
+      "name": "L'Oreal Paris Revitalift Crystal Gel Cream | Oil-Free Face Moisturizer With Salicylic Acid",
+      "amount": "50ml",
+      "brand": "L'Oreal Paris",
+      "price": 629,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/231cf79lorea00000172_8.jpg"
+    },  {
+      "id":41,
+      "name": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
+      "amount":"50gm", 
+      "brand":" Lotus Professioanl",
+      "price":164,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg"
+    },
+    {
+      "id":42,
+      "name":"O3+ Derma Cult Vitamin-C Tonic Solution",
+      "amount":"200gm", 
+      "brand":"O3+",
+      "price":533,      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/c/7c1a8e9o3xxx00000057_new1.jpg"
+    },
+    {
+      "id":43,
+      "name":"O3+ Brightening AM & PM Combo",
+      "amount":"70gm", 
+      "brand":"O3+",
+      "price":999,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/3/4382eaao3xxx00000050_1.jpg"
+    },
+    {
+      "id":44,
+      "name":"O3+ Derma Cult Salicylic + Adaptogen Mask For Acne Marks & Tan Removal",
+      "amount":"40gm", 
+      "brand":"O3+",
+    "price":1539,
+    "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/0740271o3-0950_7_.jpg"
+    },
+    {
+      "id":45,
+      "name":"Faces Canada Hydro Cleanser",
+      "amount":"100ml", 
+      "brand":"Faces Canada",
+      "price":479,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/f/ef93c248903380157734__1_.jpg"
+    },
+    {
+      "id":46,
+      "name":"Miss Claire Prestige Anti Dust Daily Pure Cleansing Foam",
+      "amount":"150ml", 
+      "brand":"Miss Claire",
+      "price":653,
+      "image":"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/a/1a89f778903487036925_1.jpg"
+    },
+    {
+      "id": 47,
+      "name": "O3+ Sara Ayurveda Kumkumadi Brightness Facial Kit For Bridal Glow",
+      "amount": "70ml",
+      "brand": "O3+",
+      "price": 1299,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/6/c6f2409o3xxx00000114_0.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Bioderma Pigmentbio Sensitive Areas External Intimate And Friction Areas Brightening Care",
+      "amount": "190ml",
+      "brand": "Bioderma",
+      "price": 2499,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/a/ba8143ebiode00000012-01.jpg"
 
-      },
-      {
-        "id": 49,
-        "name": "Bioderma Pigmentbio C- Concentrate Brightening Pigmentation Cream For Pigmentation Disorders",
-        "amount": "200ml",
-        "brand": "Bioderma",
-        "price": 899,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/8/7828ca0biode00000033_1.jpg"
-      },
-      {
-        "id": 50,
-        "name": "Bioderma Sebium Gel Moussant Actif Intense Purifying Cleansing Foaming Gel",
-        "amount": "350ml",
-        "brand": "Bioderma",
-        "price":399,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/d/9/d9a841228667_1.jpg"
-      },
-      {
-        "id": 51,
-        "name": "Beeone Aloevera Cream 500ml",
-        "amount": "500ml",
-        "brand": "Beeone",
-        "price": 171,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be24.jpg"
-      },
-      {
-        "id": 52,
-        "name": "Bioderma Sensibio H2O Makeup Removing Micellar Cleansing Solution Face & Eyes Sensitive Skin - 250ml",
-        "amount": "250ml",
-        "brand": "Bioderma",
-        "price": "910",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/5/85ee43en_3401575390447-01.jpg"
-      }
-    ],
- 
-    "hair":[
-      {
-        "id": "1",
-        "name": "Tresemme Pro Pure Damage Recovery Shampoo & Mask Combo",
-        "amount":"300ml",
-        "brand": "Tresemme",
-        "price": "1116.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/6/f658864trese00000061_1.jpg"
-      }, {
-        "id": "2",
-        "name": "Boroplus Aloe Vera Gel With Green Tea",
-        "amount": "200ml",
-        "brand": "Boroplus",
-        "price": "1360.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9f5a0dd8901248154192_1.jpg"
-      }, {
-        "id": "3",
-        "name": "Bioderma Node DS+ Shampooing Anti-Dandruff Intense Shampoo",
-        "amount": "125ml",
-        "brand": "Bioderma",
-        "price": "1527.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/3/93d343en_3401344957253-01.jpg"
-      }, {
-        "id": "4",
-        "name": "TRESemme Pro Pure Moisture Boost Mask With Aloe Essence Sulphate Free & Paraben Free",
-        "amount": "300ml",
-        "brand": "Tresemme",
-        "price": "1651.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/a/0a37fb5trese00000047_1.jpg"
-      }, {
-        "id": "5",
-        "name": "Tresemme Keratin Smooth Hair Serum",
-        "amount": "300ml",
-        "brand": "Tresemme",
-        "price": "1350.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/0/30cb3d88901030871252_1.jpg"
-      }, {
-        "id":"6",
-        "name": "Sunsilk Almond & Honey Shampoo",
-        "amount": "370ml",
-        "brand": "Sunsilk",
-        "price": "1315.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/3/c/3cabc5a8901030805080_2.jpg"
-      }, {
-        "id": "7",
-        "name": "Indulekha Bringha Hair Strengthening Lepam",
-        "amount":"200ml",
-        "brand": "Indulekha",
-        "price": "1603.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/c/8c9c39226479_s1-8901030897429.jpg"
-      }, {
-        "id": "8",
-        "name": "Indulekha Bringha Hair Strengthening Serum",
-        "amount": "30ml",
-        "brand": "Indulekha",
-        "price": "1718.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/23e539226478_s1-8901030897436.jpg"
-      }, {
-        "id": "9",
-        "name": "VLCC Onion & Fenugreek Conditioner",
-        "amount": "200ml",
-        "brand": "Vlcc",
-        "price": "1299.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/e/fe332d68907122014729_1.jpg"
-      }, {
-        "id": "10",
-        "name": "Plum Avocado Daily Haircare Kit For Frizzy Hair Silicone & Sulphate Free",
-        "amount": "600ml",
-        "brand": "PLum",
-        "price": "1605.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
-      },
-      {
-        "id": 11,
-        "name": "Plum Tea Tree Anti- Dandruff Sulphate Free & Paraben Free Scalp Serum",
-        "amount": "110ml",
-        "brand": "Plum",
-        "price": 585,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/0/40dc6c4plumx00000199_new2.jpg"
-      }, {
-        "id": 12,
-        "name": "Plum Ginseng Sulphate Free & Paraben Free Scalp Serum For Hairfall Control And Hair Growth",
-        "amount": "110ml",
-        "brand": "Plum",
-        "price": 585,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0d6d6c4plumx00000086_new2.jpg"
-      }, {
-        "id": 13,
-        "name": "Plum Avocado Smoothin' It Sulphate Free & Paraben Free Conditioner With Almond Oil For Smooth Hair",
-        "amount": "200ml",
-        "brand": "Plum",
-        "price": 458,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/4/74ac6c4plumx00000082_newgs.jpg"
-      }, {
-        "id": 14,
-        "name": "Mamaearth Almond Hair Mask, For Smoothening Hair, With Cold Pressed Almond Oil & Vitamin E",
-        "amount": "200ml",
-        "brand": "Mamaearth",
-        "price": 527,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/e/6e72a408906087778103_2_.jpg"
-      }, {
-        "id": 15,
-        "name": "Mamaearth Rice Wonder Water Hair Serum For Detangled Hair In 7 Seconds Rice Water & Keratin",
-        "amount": "100ml",
-        "brand": "Mamaearth",
-        "price": 349,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41fxobh1b0l._sl1201_.jpg"
-      }, {
-        "id": 16,
-        "name": "L'Oreal Paris Excellence Fashion - Shade 9.13 Golden Beige Blonde",
-        "amount": "172ml",
-        "brand": "L'Oreal Paris",
-        "price": 650,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/0/f06ada86923700922165_1.jpg"
-      }, {
-        "id": 17,
-        "name": "L'Oreal Paris Extraordinary Oil Smooth Conditioner (Paraben Free) 440 Ml | Nourishing Conditioner",
-        "amount": "440ml",
-        "brand": "L'Oreal Paris",
-        "price": 899,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/f/4f725balorea00000245_8.jpg"
-      }, {
-        "id": 18,
-        "name": "L'Oreal Paris Extraordinary Oil Smooth Shampoo(Paraben & Silicone Free) 440ml| Nourishing Shampoo",
-        "amount": "440ml",
-        "brand": "L'Oreal Paris",
-        "price": 899,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/8/08195balorea00000247_8.jpg"
-      }, {
-        "id": 19,
-        "name": "L'Oreal Paris Hyaluron Moisture 72H Moisture Filling Shampoo",
-        "amount": "650ml",
-        "brand": "L'Oreal Paris",
-        "price": 719,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/c/fc6915f8901526603466_8.jpg"
-      }, {
-        "id": 20,
-        "name": "L'Oreal Paris Hyaluron Moisture 72H Hydra Filling Night Cream Hair Cream",
-        "amount": "180ml",
-        "brand": "L'Oreal Paris",
-        "price": 499,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/c/0c7d15f8901526603428_10.jpg"
-      }, {
-        "id": 21,
-        "name": "Dove Hydrating Cleanse Shampoo For Curly",
-        "amount": "340ml",
-        "brand": "Dove",
-        "price": 999,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/079400471338-1817842-png.png.ulenscale.490x490.png"
-      }, {
-        "id": 22,
-        "name": "Dove Amplified Moisture Spa Recovery Hair Mask For Curls & Coils With Intense Nourishment",
-        "amount": "297ml",
-        "brand": "Dove",
-        "price": 899,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41wg_ca9rkl._sl1000_.jpg"
-      }, {
-        "id": 23,
-        "name": "Dove Amplified Super Slip Detangling Conditioner For Frizzy Hair",
-        "amount": "340ml",
-        "brand": "Dove",
-        "price": 999,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/a/fa4551e79400471345_fop.jpg"
-      }, {
-        "id": 24,
-        "name": "Dove Twist In Moisture Shaping Butter Cream",
-        "amount": "297ml",
-        "brand": "Dove",
-        "price": 949,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-22.jpg"
-      }, {
-        "id": 25,
-        "name": "Dove Shine And Moisture Finishing Gel",
-        "amount": "236ml",
-        "brand": "Dove",
-        "price": 849,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/5/a58c51e79400471291_fop.jpg"
-      }, {
-        "id": 26,
-        "name": "Dove Fresh & Floral Dry Shampoo",
-        "amount": "141ml",
-        "brand": "Dove",
-        "price": 563,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/5/0/509cc6679400449344_2.jpg"
-      }, {
-        "id": 27,
-        "name": "Dove Hair Therapy Dry Scalp Care Leave-On Solution Sulphate And Parabens Free",
-        "amount": "100ml",
-        "brand": "Dove",
-        "price": 540,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b26bb5926468-s2-8901030886058.jpg"
-      }, {
-        "id": 28,
-        "name": "Dove Hair Therapy Breakage Repair Leave-On Solution No Parabens & Dyes",
-        "amount": "100ml",
-        "brand": "Dove",
-        "price": 540,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/6/c6d5b5926467-s2-8901030886089.jpg"
-      }, {
-        "id": 29,
-        "name": "Biotique Bio Neem Margosa Anti - Dandurff Shampoo & Conditioner",
-        "amount": "800ml",
-        "brand": "Biotique",
-        "price": 603,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/4/b45c0fb8906009452159_gs.jpg"
-      }, {
-        "id": 30,
-        "name": "Biotique Advanced Organics Onion Black Seed Hair Oil",
-        "amount": "330ml",
-        "brand": "Biotique",
-        "price": 330,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/eaa56b68904317304917_1.jpg"
-      },{
-        "id": 31,
-        "name": "Biotique Bio Henna Leaf Fresh Texture Shampoo & Conditioner",
-        "amount": "650ml",
-        "brand": "Biotique",
-        "price": 450,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/2/c2fb0fb8904317300261_1.jpg"
-      }, {
-        "id": 32,
-        "name": "Biotique Bio Walnut Bark Volumizing Shampoo For Fine & Thinning Hair",
-        "amount": "650ml",
-        "brand": "Biotique",
-        "price": 450,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/ee4d0fb8904317300100_1.jpg"
-      }, {
-        "id": 33,
-        "name": "Biotique Fresh Neem Anti-Dandruff Shampoo & Conditioner",
-        "amount": "650ml",
-        "brand": "Biotique",
-        "price": 535,
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904317300346_1.jpg"
-      }
-    ],
-    "fragrance":[
-      {
-        "id": "1",
-        "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
-        "amount": "120ml",
-        "brand": "Mamaearth",
-        "price": "299.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/m/e/me-deodorant.jpg"
-      }, {
-        "id": "2",
-        "name": "Mamaearth Eau De Parfum For A Fragrance As Unique As You",
-        "amount": "50ml",
-        "brand": "Mamaearth",
-        "price": "629.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9fd2fca8906087777243__1_.jpg"
-      }, {
-        "id": "3",
-        "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
-        "amount": "120ml",
-        "brand": "Mamaearth",
-        "price": "299.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/m/e/me-deodorant.jpg"
-      }, {
-        "id": "4",
-        "name": "Fogg Bleu Series Island Fragrance Body Spray",
-        "amount": "120ml",
-        "brand": "Fogg",
-        "price": "255.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo21.jpg"
-      }, {
-        "id": "5",
-        "name": "Engage Sport Cool Deodorant For Women, Citrus & Spicy, Skin Friendly",
-        "amount": "165ml",
-        "brand": "Engage",
-        "price": "195.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/5/e54.jpg"
-      }, {
-        "id":"6",
-        "name": "Denver Esteem Hamilton Perfume",
-        "amount": "100ml",
-        "brand": "Denver",
-        "price": "488.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d37.jpg"
-      }, {
-        "id": "7",
-        "name": "Denver Imperial Deodorant For Men",
-        "amount": "200ml",
-        "brand": "Denver",
-        "price": "212.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d35.jpg"
-      }, {
-        "id": "8",
-        "name": "Denver Insight Eau De Perfume",
-        "amount": "100ml",
-        "brand": "Denver",
-        "price": "448.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
-      }, {
-        "id": "9",
-        "name": "Denver Esteem Hamilton Perfume",
-        "amount": "40ml",
-        "brand": "Denver",
-        "price": "599",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
-      }, {
-        "id": 10,
-        "name": "NIVEA MEN Deodorant - Cool Kick (Pack Of 2)",
-        "amount": "150 ml each",
-        "brand": "Nivea",
-        "price": "378.00",
-        "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/n/6/n6.jpg"
-      }
-    ]
+    },
+    {
+      "id": 49,
+      "name": "Bioderma Pigmentbio C- Concentrate Brightening Pigmentation Cream For Pigmentation Disorders",
+      "amount": "200ml",
+      "brand": "Bioderma",
+      "price": 899,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/8/7828ca0biode00000033_1.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Bioderma Sebium Gel Moussant Actif Intense Purifying Cleansing Foaming Gel",
+      "amount": "350ml",
+      "brand": "Bioderma",
+      "price":399,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/d/9/d9a841228667_1.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Beeone Aloevera Cream 500ml",
+      "amount": "500ml",
+      "brand": "Beeone",
+      "price": 171,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be24.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Bioderma Sensibio H2O Makeup Removing Micellar Cleansing Solution Face & Eyes Sensitive Skin - 250ml",
+      "amount": "250ml",
+      "brand": "Bioderma",
+      "price": "910",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/5/85ee43en_3401575390447-01.jpg"
+    }
+  ],
+
+  "hair":[
+    {
+      "id": "1",
+      "name": "Tresemme Pro Pure Damage Recovery Shampoo & Mask Combo",
+      "amount":"300ml",
+      "brand": "Tresemme",
+      "price": "1116.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/6/f658864trese00000061_1.jpg"
+    }, {
+      "id": "2",
+      "name": "Boroplus Aloe Vera Gel With Green Tea",
+      "amount": "200ml",
+      "brand": "Boroplus",
+      "price": "1360.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9f5a0dd8901248154192_1.jpg"
+    }, {
+      "id": "3",
+      "name": "Bioderma Node DS+ Shampooing Anti-Dandruff Intense Shampoo",
+      "amount": "125ml",
+      "brand": "Bioderma",
+      "price": "1527.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/3/93d343en_3401344957253-01.jpg"
+    }, {
+      "id": "4",
+      "name": "TRESemme Pro Pure Moisture Boost Mask With Aloe Essence Sulphate Free & Paraben Free",
+      "amount": "300ml",
+      "brand": "Tresemme",
+      "price": "1651.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/a/0a37fb5trese00000047_1.jpg"
+    }, {
+      "id": "5",
+      "name": "Tresemme Keratin Smooth Hair Serum",
+      "amount": "300ml",
+      "brand": "Tresemme",
+      "price": "1350.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/0/30cb3d88901030871252_1.jpg"
+    }, {
+      "id":"6",
+      "name": "Sunsilk Almond & Honey Shampoo",
+      "amount": "370ml",
+      "brand": "Sunsilk",
+      "price": "1315.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/3/c/3cabc5a8901030805080_2.jpg"
+    }, {
+      "id": "7",
+      "name": "Indulekha Bringha Hair Strengthening Lepam",
+      "amount":"200ml",
+      "brand": "Indulekha",
+      "price": "1603.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/c/8c9c39226479_s1-8901030897429.jpg"
+    }, {
+      "id": "8",
+      "name": "Indulekha Bringha Hair Strengthening Serum",
+      "amount": "30ml",
+      "brand": "Indulekha",
+      "price": "1718.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/23e539226478_s1-8901030897436.jpg"
+    }, {
+      "id": "9",
+      "name": "VLCC Onion & Fenugreek Conditioner",
+      "amount": "200ml",
+      "brand": "Vlcc",
+      "price": "1299.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/e/fe332d68907122014729_1.jpg"
+    }, {
+      "id": "10",
+      "name": "Plum Avocado Daily Haircare Kit For Frizzy Hair Silicone & Sulphate Free",
+      "amount": "600ml",
+      "brand": "PLum",
+      "price": "1605.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/5/f530144plumx00000093_1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Plum Tea Tree Anti- Dandruff Sulphate Free & Paraben Free Scalp Serum",
+      "amount": "110ml",
+      "brand": "Plum",
+      "price": 585,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/0/40dc6c4plumx00000199_new2.jpg"
+    }, {
+      "id": 12,
+      "name": "Plum Ginseng Sulphate Free & Paraben Free Scalp Serum For Hairfall Control And Hair Growth",
+      "amount": "110ml",
+      "brand": "Plum",
+      "price": 585,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/d/0d6d6c4plumx00000086_new2.jpg"
+    }, {
+      "id": 13,
+      "name": "Plum Avocado Smoothin' It Sulphate Free & Paraben Free Conditioner With Almond Oil For Smooth Hair",
+      "amount": "200ml",
+      "brand": "Plum",
+      "price": 458,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/4/74ac6c4plumx00000082_newgs.jpg"
+    }, {
+      "id": 14,
+      "name": "Mamaearth Almond Hair Mask, For Smoothening Hair, With Cold Pressed Almond Oil & Vitamin E",
+      "amount": "200ml",
+      "brand": "Mamaearth",
+      "price": 527,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/e/6e72a408906087778103_2_.jpg"
+    }, {
+      "id": 15,
+      "name": "Mamaearth Rice Wonder Water Hair Serum For Detangled Hair In 7 Seconds Rice Water & Keratin",
+      "amount": "100ml",
+      "brand": "Mamaearth",
+      "price": 349,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41fxobh1b0l._sl1201_.jpg"
+    }, {
+      "id": 16,
+      "name": "L'Oreal Paris Excellence Fashion - Shade 9.13 Golden Beige Blonde",
+      "amount": "172ml",
+      "brand": "L'Oreal Paris",
+      "price": 650,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/0/f06ada86923700922165_1.jpg"
+    }, {
+      "id": 17,
+      "name": "L'Oreal Paris Extraordinary Oil Smooth Conditioner (Paraben Free) 440 Ml | Nourishing Conditioner",
+      "amount": "440ml",
+      "brand": "L'Oreal Paris",
+      "price": 899,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/f/4f725balorea00000245_8.jpg"
+    }, {
+      "id": 18,
+      "name": "L'Oreal Paris Extraordinary Oil Smooth Shampoo(Paraben & Silicone Free) 440ml| Nourishing Shampoo",
+      "amount": "440ml",
+      "brand": "L'Oreal Paris",
+      "price": 899,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/8/08195balorea00000247_8.jpg"
+    }, {
+      "id": 19,
+      "name": "L'Oreal Paris Hyaluron Moisture 72H Moisture Filling Shampoo",
+      "amount": "650ml",
+      "brand": "L'Oreal Paris",
+      "price": 719,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/c/fc6915f8901526603466_8.jpg"
+    }, {
+      "id": 20,
+      "name": "L'Oreal Paris Hyaluron Moisture 72H Hydra Filling Night Cream Hair Cream",
+      "amount": "180ml",
+      "brand": "L'Oreal Paris",
+      "price": 499,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/c/0c7d15f8901526603428_10.jpg"
+    }, {
+      "id": 21,
+      "name": "Dove Hydrating Cleanse Shampoo For Curly",
+      "amount": "340ml",
+      "brand": "Dove",
+      "price": 999,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/0/7/079400471338-1817842-png.png.ulenscale.490x490.png"
+    }, {
+      "id": 22,
+      "name": "Dove Amplified Moisture Spa Recovery Hair Mask For Curls & Coils With Intense Nourishment",
+      "amount": "297ml",
+      "brand": "Dove",
+      "price": 899,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/1/41wg_ca9rkl._sl1000_.jpg"
+    }, {
+      "id": 23,
+      "name": "Dove Amplified Super Slip Detangling Conditioner For Frizzy Hair",
+      "amount": "340ml",
+      "brand": "Dove",
+      "price": 999,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/a/fa4551e79400471345_fop.jpg"
+    }, {
+      "id": 24,
+      "name": "Dove Twist In Moisture Shaping Butter Cream",
+      "amount": "297ml",
+      "brand": "Dove",
+      "price": 949,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/u/n/untitled-22.jpg"
+    }, {
+      "id": 25,
+      "name": "Dove Shine And Moisture Finishing Gel",
+      "amount": "236ml",
+      "brand": "Dove",
+      "price": 849,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/5/a58c51e79400471291_fop.jpg"
+    }, {
+      "id": 26,
+      "name": "Dove Fresh & Floral Dry Shampoo",
+      "amount": "141ml",
+      "brand": "Dove",
+      "price": 563,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/5/0/509cc6679400449344_2.jpg"
+    }, {
+      "id": 27,
+      "name": "Dove Hair Therapy Dry Scalp Care Leave-On Solution Sulphate And Parabens Free",
+      "amount": "100ml",
+      "brand": "Dove",
+      "price": 540,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/2/b26bb5926468-s2-8901030886058.jpg"
+    }, {
+      "id": 28,
+      "name": "Dove Hair Therapy Breakage Repair Leave-On Solution No Parabens & Dyes",
+      "amount": "100ml",
+      "brand": "Dove",
+      "price": 540,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/6/c6d5b5926467-s2-8901030886089.jpg"
+    }, {
+      "id": 29,
+      "name": "Biotique Bio Neem Margosa Anti - Dandurff Shampoo & Conditioner",
+      "amount": "800ml",
+      "brand": "Biotique",
+      "price": 603,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/4/b45c0fb8906009452159_gs.jpg"
+    }, {
+      "id": 30,
+      "name": "Biotique Advanced Organics Onion Black Seed Hair Oil",
+      "amount": "330ml",
+      "brand": "Biotique",
+      "price": 330,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/a/eaa56b68904317304917_1.jpg"
+    },{
+      "id": 31,
+      "name": "Biotique Bio Henna Leaf Fresh Texture Shampoo & Conditioner",
+      "amount": "650ml",
+      "brand": "Biotique",
+      "price": 450,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/2/c2fb0fb8904317300261_1.jpg"
+    }, {
+      "id": 32,
+      "name": "Biotique Bio Walnut Bark Volumizing Shampoo For Fine & Thinning Hair",
+      "amount": "650ml",
+      "brand": "Biotique",
+      "price": 450,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/ee4d0fb8904317300100_1.jpg"
+    }, {
+      "id": 33,
+      "name": "Biotique Fresh Neem Anti-Dandruff Shampoo & Conditioner",
+      "amount": "650ml",
+      "brand": "Biotique",
+      "price": 535,
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904317300346_1.jpg"
+    }
+  ],
+  "fragrance":[
+    {
+      "id": "1",
+      "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
+      "amount": "120ml",
+      "brand": "Mamaearth",
+      "price": "299.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/a14a2e6f570c727e7b2d241a9eba897f/m/e/me-deodorant.jpg"
+    }, {
+      "id": "2",
+      "name": "Mamaearth Eau De Parfum For A Fragrance As Unique As You",
+      "amount": "50ml",
+      "brand": "Mamaearth",
+      "price": "629.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/f/9fd2fca8906087777243__1_.jpg"
+    }, {
+      "id": "3",
+      "name": "Mamaearth ME Deo For A Scent That’s Unique To You",
+      "amount": "120ml",
+      "brand": "Mamaearth",
+      "price": "299.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/m/e/me-deodorant.jpg"
+    }, {
+      "id": "4",
+      "name": "Fogg Bleu Series Island Fragrance Body Spray",
+      "amount": "120ml",
+      "brand": "Fogg",
+      "price": "255.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo21.jpg"
+    }, {
+      "id": "5",
+      "name": "Engage Sport Cool Deodorant For Women, Citrus & Spicy, Skin Friendly",
+      "amount": "165ml",
+      "brand": "Engage",
+      "price": "195.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/5/e54.jpg"
+    }, {
+      "id":"6",
+      "name": "Denver Esteem Hamilton Perfume",
+      "amount": "100ml",
+      "brand": "Denver",
+      "price": "488.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d37.jpg"
+    }, {
+      "id": "7",
+      "name": "Denver Imperial Deodorant For Men",
+      "amount": "200ml",
+      "brand": "Denver",
+      "price": "212.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d35.jpg"
+    }, {
+      "id": "8",
+      "name": "Denver Insight Eau De Perfume",
+      "amount": "100ml",
+      "brand": "Denver",
+      "price": "448.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
+    }, {
+      "id": "9",
+      "name": "Denver Esteem Hamilton Perfume",
+      "amount": "40ml",
+      "brand": "Denver",
+      "price": "599",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/3/d30.jpg"
+    }, {
+      "id": 10,
+      "name": "NIVEA MEN Deodorant - Cool Kick (Pack Of 2)",
+      "amount": "150 ml each",
+      "brand": "Nivea",
+      "price": "378.00",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/n/6/n6.jpg"
+    }
+  ],
+   
+
+    "earrings":[
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04647-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04647-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "7,962",
+          "Price": "8,333",
+          "extra-details": "Marquise Gold Drop Earrings",
+          "id": 1
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00010-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00010-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "15,353",
+          "extra-details": "Nolana Drop Gold Earrings",
+          "id": 2
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04010-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04010-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "18,404",
+          "Price": "20,449",
+          "extra-details": "Northstar Diamond Stud Earrings",
+          "id": 3
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06187-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06187-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,396",
+          "Price": "11,744",
+          "extra-details": "Quad Geometric Diamond Stud Earrings",
+          "id": 4
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04906-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04906-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "7,284",
+          "Price": "8,314",
+          "extra-details": "Lovely Blossom Kid,s Gold Earrings",
+          "id": 5
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04688-1R00RS_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04688-1R00RS_12_listhover.jpg",
+          "Discounted-Price": "13,484",
+          "extra-details": "Ruhi Floret Gemstone Drop Earrings",
+          "id": 6
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06196-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06196-1RP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "12,281",
+          "Price": "12,928",
+          "extra-details": "Geometric Gleam Diamond Stud Earrings",
+          "id": 7
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03730-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03730-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "43,067",
+          "Price": "47,707",
+          "extra-details": "Triangular Diamond Drop Earrings",
+          "id": 8
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04660-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04660-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "5,258",
+          "Price": "6,365",
+          "extra-details": "Pink Strawberry Kid's Stud Gold Earrings",
+          "id": 9
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06185-1YP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06185-1YP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,304",
+          "Price": "11,630",
+          "extra-details": "Triad Sparkle Diamond Stud Earrings",
+          "id": 10
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03948-WGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03948-WGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "15,903",
+          "Price": "17,671",
+          "extra-details": "Linear Multi Pierced Diamond Hoop Earrings",
+          "id": 11
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00070-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00070-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "25,062",
+          "extra-details": "Framed Leaf Gold Drop Earrings",
+          "id": 12
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06765-1RP9P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06765-1RP9P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "37,982",
+          "Price": "42,061",
+          "extra-details": "Amala Pearl Stud Earrings",
+          "id": 13
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05998-1YP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05998-1YP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "20,540",
+          "Price": "21,696",
+          "extra-details": "Linear Glint Diamond Drop Earrings",
+          "id": 14
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04735-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04735-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "21,782",
+          "Price": "23,142",
+          "extra-details": "Little Love Kid's Diamond Earrings",
+          "id": 15
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05668-1TP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05668-1TP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "20,216",
+          "Price": "21,066",
+          "extra-details": "Zoey Entwine Diamond Drop Earrings",
+          "id": 16
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06717-1YP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06717-1YP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "11,253",
+          "Price": "11,845",
+          "extra-details": "Leafy Diamond Ear Cuffs",
+          "id": 17
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03274-WGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03274-WGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "38,702",
+          "Price": "44,085",
+          "extra-details": "Hala Diamond Stud Earrings",
+          "id": 18
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06540-1YP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06540-1YP600_12_listhover.jpg",
+          "Discounted-Price": "60,118",
+          "Price": "66,099",
+          "extra-details": "Arbella Ornate Diamond Drop Earrings",
+          "id": 19
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04994-RGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04994-RGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "26,388",
+          "Price": "27,634",
+          "extra-details": "Dome Mesh Diamond Stud Earrings",
+          "id": 20
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04467-RGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04467-RGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "46,505",
+          "Price": "48,204",
+          "extra-details": "Oak Roots Diamond Stud Earrings",
+          "id": 21
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06653-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06653-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "12,787",
+          "Price": "14,208",
+          "extra-details": "Glittering Heart Diamond Stud Earrings",
+          "id": 22
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05531-YG00RS_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05531-YG00RS_12_listhover.jpg",
+          "Discounted-Price": "45,642",
+          "extra-details": "Statement Earrings by Ayushi",
+          "id": 23
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05896-YGP9P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05896-YGP9P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "34,448",
+          "Price": "35,581",
+          "extra-details": "Magnificent Lotus Pearl Drop Earrings",
+          "id": 24
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06857-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06857-1RP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "23,429",
+          "Price": "24,834",
+          "extra-details": "Elina Tulip Diamond Stud Earrings",
+          "id": 25
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03084-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03084-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "36,817",
+          "Price": "40,981",
+          "extra-details": "Sparkle Cluster Diamond Stud Earrings",
+          "id": 26
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03706-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03706-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "35,920",
+          "Price": "37,853",
+          "extra-details": "Ferna Shine Diamond Ear Cuffs",
+          "id": 27
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02428-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02428-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "73,619",
+          "Price": "81,800",
+          "extra-details": "Antique Sun Diamond Stud Earrings",
+          "id": 28
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04048-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04048-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "44,007",
+          "Price": "49,139",
+          "extra-details": "Chequered Diamond Stud Earrings",
+          "id": 29
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00004-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00004-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "11,462",
+          "extra-details": "Rhodeus Drop Gold Earrings",
+          "id": 30
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06188-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06188-1RP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "10,715",
+          "Price": "11,906",
+          "extra-details": "Glinting Butterfly Diamond Stud Earrings",
+          "id": 31
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00119-YG00RN_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00119-YG00RN_12_listhover.jpg",
+          "Discounted-Price": "75,815",
+          "extra-details": "Pansy Blossom Pearl Chand Bali",
+          "id": 32
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03946-RGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03946-RGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,734",
+          "Price": "12,169",
+          "extra-details": "Clover Petal Diamond Stud Earrings",
+          "id": 33
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03711-RGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03711-RGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "32,725",
+          "Price": "34,357",
+          "extra-details": "Curvy Flap Diamond Ear Cuffs",
+          "id": 34
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05166-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05166-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "16,786",
+          "Price": "18,651",
+          "extra-details": "Daisy Floret Diamond Stud Earrings",
+          "id": 35
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05484-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05484-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "19,480",
+          "Price": "20,505",
+          "extra-details": "Trinket Diamond Stud Earrings",
+          "id": 36
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03945-RGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03945-RGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "10,019",
+          "Price": "11,132",
+          "extra-details": "Moonshine Diamond Stud Earrings",
+          "id": 37
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05437-1Y00P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05437-1Y00P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "4,138",
+          "Price": "4,912",
+          "extra-details": "Flutter Pearl Kid's Earrings",
+          "id": 38
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06140-1YP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06140-1YP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "27,059",
+          "Price": "29,099",
+          "extra-details": "Dancing Queen Diamond Stud Earrings",
+          "id": 39
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00501-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00501-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,250",
+          "Price": "9,715",
+          "extra-details": "Lil Butterflies Kis's Gold Earrings",
+          "id": 40
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/E/SE00098-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/E/SE00098-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "1,02,430",
+          "Price": "1,11,948",
+          "extra-details": "Radiance Solitaire Stud Earrings",
+          "id": 41
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04439-YG00TE_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04439-YG00TE_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "15,343",
+          "extra-details": "Poire Topaz Gemstone Drop Earrings",
+          "id": 42
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06312-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06312-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,240",
+          "Price": "11,550",
+          "extra-details": "Rosy Heart Diamond Stud Earrings",
+          "id": 43
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04377-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04377-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "7,542",
+          "Price": "7,882",
+          "extra-details": "Infinity Love Gold Stud Earrings",
+          "id": 44
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06676-1YP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06676-1YP600_12_listhover.jpg",
+          "Discounted-Price": "66,602",
+          "Price": "74,250",
+          "extra-details": "Eve Diamond Hoop Earrings",
+          "id": 45
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04049-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04049-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "42,132",
+          "Price": "45,146",
+          "extra-details": "Sparkling Star Diamond Stud Earrings",
+          "id": 46
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05545-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05545-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "25,337",
+          "Price": "27,904",
+          "extra-details": "Simply Knot Diamond Stud Earrings",
+          "id": 47
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04416-YG00P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04416-YG00P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "14,119",
+          "extra-details": "Snow Drop Pearl Drop Earrings",
+          "id": 48
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00002-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE00002-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "15,600",
+          "extra-details": "Cone Drop Gold Earrings",
+          "id": 49
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04626-YG00P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04626-YG00P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "22,613",
+          "extra-details": "Swerve Leaf Pearl Drop Earrings",
+          "id": 50
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04059-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04059-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "22,152",
+          "Price": "23,308",
+          "extra-details": "Classic Leaves Diamond Stud Earrings",
+          "id": 51
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06679-1YP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06679-1YP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "29,539",
+          "Price": "31,278",
+          "extra-details": "Asyrah Ornate Diamond Stud Earrings",
+          "id": 52
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01608-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01608-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "62,903",
+          "Price": "71,571",
+          "extra-details": "Clique Diamond Stud Earrings",
+          "id": 53
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06181-1YP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06181-1YP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "23,694",
+          "Price": "25,144",
+          "extra-details": "Glorious Floret Diamond Stud Earrings",
+          "id": 54
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06320-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06320-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,829",
+          "Price": "10,921",
+          "extra-details": "Linear Streak Diamond Drop Earrings",
+          "id": 55
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03148-YGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03148-YGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "36,860",
+          "Price": "38,102",
+          "extra-details": "Orna Trellis Diamond Drop Earrings",
+          "id": 56
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05022-1R0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05022-1R0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "5,042",
+          "Price": "5,814",
+          "extra-details": "Petite Butterfly Kid's Gold Earrings",
+          "id": 57
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03542-RGP9XR_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03542-RGP9XR_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "24,474",
+          "Price": "24,995",
+          "extra-details": "Esme Gemstone Stud Earrings",
+          "id": 58
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03309-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03309-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "33,251",
+          "Price": "37,082",
+          "extra-details": "Abigail Diamond Stud Earrings",
+          "id": 59
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03501-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03501-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "17,110",
+          "Price": "18,011",
+          "extra-details": "Tiny Butterfly Kis's Diamond Earrings",
+          "id": 60
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01830-WGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01830-WGP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "24,134",
+          "Price": "26,342",
+          "extra-details": "Sparkle Diamond Stud Earrings",
+          "id": 61
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03286-WGP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03286-WGP900_12_listhover.jpg",
+          "Discounted-Price": "26,396",
+          "Price": "27,982",
+          "extra-details": "Tia Diamond Stud Earrings",
+          "id": 62
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06314-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06314-1RP900_12_listhover.jpg",
+          "Discounted-Price": "11,249",
+          "Price": "12,498",
+          "extra-details": "Tri Sparkle Diamond Drop Earrings",
+          "id": 63
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06192-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06192-1RP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "8,150",
+          "Price": "8,579",
+          "extra-details": "Full Bloom Diamond Stud Earrings",
+          "id": 64
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06793-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06793-1RP900_12_listhover.jpg",
+          "Discounted-Price": "28,492",
+          "Price": "31,551",
+          "extra-details": "Astr'id Hoop Earrings",
+          "id": 65
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06195-1YP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06195-1YP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "10,515",
+          "Price": "11,683",
+          "extra-details": "Sleek Twine Diamond Stud Earrings",
+          "id": 66
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05427-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE05427-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "4,470",
+          "Price": "4,780",
+          "extra-details": "Violet Flutter Kis's Gold Earrings",
+          "id": 67
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05135-1RP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE05135-1RP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "11,025",
+          "Price": "12,250",
+          "extra-details": "Edgy Heart Diamond Stud Earrings",
+          "id": 68
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03301-RGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03301-RGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "63,352",
+          "Price": "67,998",
+          "extra-details": "Clover Heart Flora Diamond Hoop Earrings",
+          "id": 69
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01811-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE01811-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "21,187",
+          "Price": "23,541",
+          "extra-details": "Eartha Cluster Diamond Stud Earrings",
+          "id": 70
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02419-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02419-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "29,829",
+          "Price": "31,526",
+          "extra-details": "Trio Poire Diamond Drop Earrings",
+          "id": 71
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04224-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE04224-YGP600_12_listhover.jpg",
+          "Discounted-Price": "90,483",
+          "Price": "97,961",
+          "extra-details": "Ber Leaf Diamond Stud Earrings",
+          "id": 72
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06128-1YP6ED_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06128-1YP6ED_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "74,112",
+          "Price": "82,346",
+          "extra-details": "Celebration Bloom Diamond Drop Earrings",
+          "id": 73
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04784-YG0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04784-YG0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "9,449",
+          "Price": "9,789",
+          "extra-details": "Saima Cutout Gold Drop Earrings",
+          "id": 74
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03360-YGP600_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE03360-YGP600_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "27,599",
+          "Price": "29,007",
+          "extra-details": "Catia Stardom Diamond Stud Earrings",
+          "id": 75
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06931-1YP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06931-1YP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "20,309",
+          "Price": "20,943",
+          "extra-details": "Ela Pleasing Diamond Ear Cuffs",
+          "id": 76
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04499-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04499-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "5,800",
+          "Price": "6,243",
+          "extra-details": "Magical Unicorn Kid's Gold Earrings",
+          "id": 77
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04381-1Y0000_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04381-1Y0000_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "7,434",
+          "Price": "7,774",
+          "extra-details": "Striped Heart Gold Stud Earrings",
+          "id": 78
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06978-1RP900_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06978-1RP900_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "13,397",
+          "Price": "15,761",
+          "extra-details": "Smart Ribbon Diamond Earcuffs",
+          "id": 79
+        },
+        {
+          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04556-1Y00P0_11_listfront.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/E/UE04556-1Y00P0_12_listhover.jpg",
+          "about": "BESTSELLER",
+          "Discounted-Price": "13,778",
+          "extra-details": "Lara Bloom Pearl Stud Earrings",
+          "id": 80
+        }
+      ]
+      
   }
 
 
