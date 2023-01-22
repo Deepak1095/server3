@@ -1431,7 +1431,7 @@
       ],
       "bangles-bracelets":[
         {
-          "productcardImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00702-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00702-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹6,692",
           "Price": "₹7,799",
@@ -1439,7 +1439,7 @@
           "id": 1
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01374-1YP600_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01374-1YP600_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,660",
           "Price": "₹12,273",
@@ -1447,7 +1447,7 @@
           "id": 2
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01725-1YP6P0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01725-1YP6P0_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹30,689",
           "Price": "₹36,105",
@@ -1455,7 +1455,7 @@
           "id": 3
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00842-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00842-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,643",
           "Price": "₹8,673",
@@ -1463,7 +1463,7 @@
           "id": 4
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00997-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00997-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,120",
           "Price": "₹9,691",
@@ -1471,7 +1471,7 @@
           "id": 5
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01727-1YP6P0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01727-1YP6P0_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹98,341",
           "Price": "₹1,05,586",
@@ -1479,7 +1479,7 @@
           "id": 6
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,632",
           "Price": "₹13,632",
@@ -1487,7 +1487,7 @@
           "id": 7
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,700",
           "Price": "₹9,318",
@@ -1495,7 +1495,7 @@
           "id": 8
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹14,533",
           "Price": "₹16,148",
@@ -1503,7 +1503,7 @@
           "id": 9
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹34,341",
           "Price": "₹35,837",
@@ -1511,7 +1511,7 @@
           "id": 10
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹82,784",
           "Price": "₹85,696",
@@ -1519,7 +1519,7 @@
           "id": 11
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹16,854",
           "Price": "₹17,548",
@@ -1527,7 +1527,7 @@
           "id": 12
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,449",
           "Price": "₹13,470",
@@ -1535,7 +1535,7 @@
           "id": 13
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹55,238",
           "Price": "₹60,336",
@@ -1543,7 +1543,7 @@
           "id": 14
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹29,809",
           "Price": "₹35,069",
@@ -1551,7 +1551,7 @@
           "id": 15
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹6,652",
           "Price": "₹7,579",
@@ -1559,7 +1559,7 @@
           "id": 16
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,805",
           "Price": "₹10,912",
@@ -1567,7 +1567,7 @@
           "id": 17
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹24,979",
           "Price": "₹29,387",
@@ -1575,7 +1575,7 @@
           "id": 18
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹78,136",
           "Price": "₹91,924",
@@ -1583,7 +1583,7 @@
           "id": 19
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,987",
           "Price": "₹9,605",
@@ -1591,7 +1591,7 @@
           "id": 20
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00753-1C0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00753-1C0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,632",
           "Price": "₹13,632",
@@ -1599,7 +1599,7 @@
           "id": 21
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00843-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00843-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,700",
           "Price": "₹9,318",
@@ -1607,7 +1607,7 @@
           "id": 22
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00989-1YP600_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00989-1YP600_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹14,533",
           "Price": "₹16,148",
@@ -1615,7 +1615,7 @@
           "id": 23
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01127-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01127-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹34,341",
           "Price": "₹35,837",
@@ -1623,7 +1623,7 @@
           "id": 24
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01748-1YP9CI_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01748-1YP9CI_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹82,784",
           "Price": "₹85,696",
@@ -1631,7 +1631,7 @@
           "id": 25
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00808-YG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00808-YG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹16,854",
           "Price": "₹17,548",
@@ -1639,7 +1639,7 @@
           "id": 26
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01363-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01363-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,449",
           "Price": "₹13,470",
@@ -1647,7 +1647,7 @@
           "id": 27
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01389-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01389-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹55,238",
           "Price": "₹60,336",
@@ -1655,7 +1655,7 @@
           "id": 28
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01164-1RP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01164-1RP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹29,809",
           "Price": "₹35,069",
@@ -1663,7 +1663,7 @@
           "id": 29
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00847-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00847-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹6,652",
           "Price": "₹7,579",
@@ -1671,7 +1671,7 @@
           "id": 30
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00519-YG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00519-YG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,805",
           "Price": "₹10,912",
@@ -1679,7 +1679,7 @@
           "id": 31
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00394-YGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00394-YGP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹24,979",
           "Price": "₹29,387",
@@ -1687,7 +1687,7 @@
           "id": 32
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01681-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01681-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹78,136",
           "Price": "₹91,924",
@@ -1695,7 +1695,7 @@
           "id": 33
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00844-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00844-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,987",
           "Price": "₹9,605",
@@ -1703,7 +1703,7 @@
           "id": 34
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,128",
           "Price": "₹8,653",
@@ -1711,7 +1711,7 @@
           "id": 35
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹95,659",
           "Price": "₹1,01,064",
@@ -1719,7 +1719,7 @@
           "id": 36
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹22,778",
           "Price": "₹24,931",
@@ -1727,7 +1727,7 @@
           "id": 37
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹15,416",
           "Price": "₹17,632",
@@ -1735,7 +1735,7 @@
           "id": 38
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹30,796",
           "Price": "₹36,230",
@@ -1743,7 +1743,7 @@
           "id": 39
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹25,288",
           "Price": "₹29,751",
@@ -1751,7 +1751,7 @@
           "id": 40
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,385",
           "Price": "₹8,895",
@@ -1759,7 +1759,7 @@
           "id": 41
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,421",
           "Price": "₹12,579",
@@ -1767,7 +1767,7 @@
           "id": 42
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01747-1YP9CI_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01747-1YP9CI_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹22,228",
           "Price": "₹26,151",
@@ -1775,7 +1775,7 @@
           "id": 43
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00874-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00874-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,323",
           "Price": "₹9,787",
@@ -1783,7 +1783,7 @@
           "id": 44
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00736-1R0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00736-1R0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,197",
           "Price": "₹8,227",
@@ -1791,7 +1791,7 @@
           "id": 45
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00602-RGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00602-RGP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹25,785",
           "Price": "₹26,578",
@@ -1799,7 +1799,7 @@
           "id": 46
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00684-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00684-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,211",
           "Price": "₹7,520",
@@ -1807,7 +1807,7 @@
           "id": 47
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00581-RGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00581-RGP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹21,482",
           "Price": "₹22,399",
@@ -1815,7 +1815,7 @@
           "id": 48
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹13,758",
           "Price": "₹15,632",
@@ -1823,7 +1823,7 @@
           "id": 49
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹20,225",
           "Price": "₹23,794",
@@ -1831,7 +1831,7 @@
           "id": 50
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,363",
           "Price": "₹8,650",
@@ -1839,7 +1839,7 @@
           "id": 51
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹16,200",
           "Price": "₹18,632",
@@ -1847,7 +1847,7 @@
           "id": 52
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,174",
           "Price": "₹9,101",
@@ -1855,7 +1855,7 @@
           "id": 53
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹14,122",
           "Price": "₹14,757",
@@ -1863,7 +1863,7 @@
           "id": 54
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00650-YG00P0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00650-YG00P0_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹13,758",
           "Price": "₹15,632",
@@ -1871,7 +1871,7 @@
           "id": 55
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01746-1YP9CI_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01746-1YP9CI_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹20,225",
           "Price": "₹23,794",
@@ -1879,7 +1879,7 @@
           "id": 56
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00553-1Y00T0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00553-1Y00T0_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,363",
           "Price": "₹8,650",
@@ -1887,7 +1887,7 @@
           "id": 57
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00991-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT00991-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹16,200",
           "Price": "₹18,632",
@@ -1895,7 +1895,7 @@
           "id": 58
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00606-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00606-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,174",
           "Price": "₹9,101",
@@ -1903,7 +1903,7 @@
           "id": 59
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00816-YG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00816-YG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹14,122",
           "Price": "₹14,757",
@@ -1911,7 +1911,7 @@
           "id": 60
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,680",
           "Price": "₹9,787",
@@ -1919,7 +1919,7 @@
           "id": 61
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹22,150",
           "Price": "₹23,283",
@@ -1927,7 +1927,7 @@
           "id": 62
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹15,380",
           "Price": "₹17,632",
@@ -1935,7 +1935,7 @@
           "id": 63
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01458-1YP600_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01458-1YP600_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹51,412",
           "Price": "₹54,200",
@@ -1943,7 +1943,7 @@
           "id": 64
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00688-1Y0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00688-1Y0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,364",
           "Price": "₹8,673",
@@ -1951,7 +1951,7 @@
           "id": 65
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01731-1RP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01731-1RP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹32,743",
           "Price": "₹36,108",
@@ -1959,7 +1959,7 @@
           "id": 66
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01448-1YP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01448-1YP900_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,060",
           "Price": "₹10,066",
@@ -1967,7 +1967,7 @@
           "id": 67
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00016-YG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00016-YG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹15,923",
           "Price": "₹17,632",
@@ -1975,7 +1975,7 @@
           "id": 68
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00670-1R0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00670-1R0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹6,214",
           "Price": "₹7,038",
@@ -1983,7 +1983,7 @@
           "id": 69
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00075-RG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00075-RG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹18,884",
           "Price": "₹19,632",
@@ -1991,7 +1991,7 @@
           "id": 70
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01167-1YP9RS_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/T/JT01167-1YP9RS_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹26,085",
           "Price": "₹30,688",
@@ -1999,7 +1999,7 @@
           "id": 71
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00374-YG0000_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/T/UT00374-YG0000_12_listhover.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹11,406",
           "Price": "₹11,871",
@@ -2007,7 +2007,7 @@
           "id": 72
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹10,344",
           "Price": "₹10,809",
@@ -2015,7 +2015,7 @@
           "id": 73
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹76,575",
           "Price": "₹90,089",
@@ -2023,7 +2023,7 @@
           "id": 74
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹14,936",
           "Price": "₹15,564",
@@ -2031,7 +2031,7 @@
           "id": 75
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹9,881",
           "Price": "₹10,988",
@@ -2039,7 +2039,7 @@
           "id": 76
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹77,232",
           "Price": "₹90,861",
@@ -2047,7 +2047,7 @@
           "id": 77
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹8,155",
           "Price": "₹9,185",
@@ -2055,7 +2055,7 @@
           "id": 78
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹7,397",
           "Price": "₹8,427",
@@ -2063,7 +2063,7 @@
           "id": 79
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "about": "BESTSELLER",
           "Discountedpri": "₹30,389",
           "Price": "₹35,752",
@@ -2074,14 +2074,14 @@
       "login":[],
       "ring":[
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR03126-WGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR03126-WGP900_12_listhover.jpg",
           "Discountedpri": "₹61,539",
           "Price": "₹72,400",
           "extra-details": "Emma Flora Diamond Ring",
           "id": 1
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR07311-1YP6P0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR07311-1YP6P0_12_listhover.jpg",
           "Discountedpri": "₹35,220",
           "Price": "₹38,594",
           "extra-details": "Mutyaa Pearl Ring",
@@ -2089,7 +2089,7 @@
           "id": 2
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR07313-1YP6P0_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR07313-1YP6P0_12_listhover.jpg",
           "Discountedpri": "₹44,657",
           "Price": "₹52,537",
           "extra-details": "Muktya Dual Pearl Ring",
@@ -2097,14 +2097,14 @@
           "id": 3
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹31,205",
           "Price": "₹32,043",
           "extra-details": "Jack Platinum Ring for Men",
           "id": 4
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹70,028",
           "Price": "₹82,386",
           "extra-details": "Malaya Pearl Ring",
@@ -2112,14 +2112,14 @@
           "id": 5
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹40,022",
           "Price": "₹41,396",
           "extra-details": "Ben Platinum Band for Men",
           "id": 6
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹59,922",
           "Price": "₹70,496",
           "extra-details": "Meher Pearl Ring",
@@ -2127,7 +2127,7 @@
           "id": 7
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹42,509",
           "Price": "₹50,011",
           "extra-details": "Pearly Twig Ring",
@@ -2135,14 +2135,14 @@
           "id": 8
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹48,241",
           "Price": "50,000",
           "extra-details": "Romeo Gold Band for Men",
           "id": 9
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,42,743",
           "Price": "₹1,55,902",
           "extra-details": "Inaya Solitaire Ring",
@@ -2150,14 +2150,14 @@
           "id": 10
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹27,863",
           "Price": "₹32,780",
           "extra-details": "Gilda Shimmer Thread  Diamond Band",
           "id": 11
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
          
           "Discountedpri": "₹60,709",
           "Price": "₹65,785",
@@ -2166,21 +2166,21 @@
           "id": 12
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹10,912",
           "Price": "₹12,124",
           "extra-details": "Quad Miracle Plate Diamond Ring",
           "id": 13
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹99,730",
           "Price": "₹1,08,511",
           "extra-details": "Jen Enticing Solitaire Ring",
           "id": 14
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           
           "Discountedpri": "₹2,77,729",
           "Price": "₹3,05,828",
@@ -2189,21 +2189,21 @@
           "id": 15
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹43,845",
           "Price": "₹46,618",
           "extra-details": "Delicado Diamond Ring for Men",
           "id": 16
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹28,853",
           "Price": "₹31,462",
           "extra-details": "Claire Cluster Diamond Ring",
           "id": 17
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           
           "Discountedpri": "₹2,12,388",
           "Price": "₹2,41,500",
@@ -2212,7 +2212,7 @@
           "id": 18
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,67,160",
           "Price": "₹1,74,615",
           "extra-details": "Glee Princess Solitaire Ring",
@@ -2220,7 +2220,7 @@
           "id": 19
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹50,040",
           "Price": "₹58,872",
           "extra-details": "Elizabeth Grand Pearl Ring",
@@ -2229,140 +2229,140 @@
       ],
       "solitaires":[
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR03331-YGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR03331-YGP900_12_listhover.jpg",
           "Discountedpri": "₹97,738",
           "Price": "₹1,06,802",
           "extra-details": "Prin Diamond Solitaire Ring",
           "id": 1
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR02226-YGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR02226-YGP900_12_listhover.jpg",
           "Discountedpri": "₹91,359",
           "Price": "₹1,02,508",
           "extra-details": "Mark Solitaire Ring for Men",
           "id": 2
         },
         {
-          "productcard-frontimage": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR02271-WGP900_12_listhover.jpg",
+          "img": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//S/R/SR02271-WGP900_12_listhover.jpg",
           "Discountedpri": "₹1,13,003",
           "Price": "₹1,33,624",
           "extra-details": "Eleanor Hoop Solitaire Ring",
           "id": 3
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹90,376",
           "Price": "₹98,534",
           "extra-details": "Proz Solitaire Ring",
           "id": 4
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹85,708",
           "Price": "₹92,778",
           "extra-details": "Precious Platinum Ring",
           "id": 5
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,23,993",
           "Price": "₹1,29,414",
           "extra-details": "Turia Solitaire Ring for Men",
           "id": 6
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹54,315",
           "Price": "₹63,832",
           "extra-details": "Mold Solitaire Ring",
           "id": 7
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹68,721",
           "Price": "₹79,672",
           "extra-details": "Indea Solitaire Ring",
           "id": 8
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,84,489",
           "Price": "₹2,01,349",
           "extra-details": "Cristina Quad Solitaire Ring",
           "id": 9
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,14,464",
           "Price": "₹1,30,609",
           "extra-details": "Emmo Diamond Solitaire Ring",
           "id": 10
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹45,908",
           "Price": "₹53,046",
           "extra-details": "Devanshi Solitaire Nose Pin",
           "id": 11
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹41,704",
           "Price": "₹42,893",
           "extra-details": "Simple Solitaire Ring",
           "id": 12
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,12,624",
           "Price": "₹1,30,231",
           "extra-details": "Mud Solitaire Ring",
           "id": 13
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹91,068",
           "Price": "₹1,07,157",
           "extra-details": "Soha Solitaire Mangalsutra",
           "id": 14
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹2,63,486",
           "Price": "₹3,05,022",
           "extra-details": "Paola Halo Solitaire Ring",
           "id": 15
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹64,421",
           "Price": "₹69,724",
           "extra-details": "Ree Solitaire Ring",
           "id": 16
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹76,438",
           "Price": "₹91,711",
           "extra-details": "Starlight Solitaire Detachable Stud Earrings",
           "id": 17
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹1,07,672",
           "Price": "₹1,16,464",
           "extra-details": "Sunshine Solitaire Bridal Ring Set",
           "id": 18
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹62,828",
           "Price": "₹74,328",
           "extra-details": "Leno Solitaire Ring",
           "id": 19
         },
         {
-          "productcard-frontimage": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
+          "img": "https://assets.cltstatic.com/images/responsive/listing-image-placeholder.jpg",
           "Discountedpri": "₹25,776",
           "Price": "₹29,345",
           "extra-details": "Gracie Solitaire Nose Pin",
