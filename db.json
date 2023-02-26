@@ -3421,7 +3421,450 @@
             "reward": "Sold by BOBBI + BRICKA",
             "price": 38.98
           }
-        ]
+        ],
+          "women_dress": [
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1927824978.jpg?plain&size=400x400",
+              "title": "Joie Womens Huntlie Summer Short Mini Dress",
+              "price": 44.89,
+              "reward": "$0.90 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1956765535.jpg?plain&size=400x400",
+              "title": "Steve Madden Womens Faux Leather Mini Wrap Dress",
+              "price": 44.55,
+              "reward": "$0.89 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/290000/292000/292019/products/1932801746.jpg?plain&size=400x400",
+              "title": "Roper Western Dress Womens 3/4 Full Sweep Blue 03-057-0590-7025 BU",
+              "price": 53.94,
+              "reward": "$3.24 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958182288.jpg?plain&size=400x400",
+              "title": "TOMMY HILFIGER Womens Navy Textured Pleated Lined Floral Sleeveless Keyhole Short Shift Dress 14",
+              "price": 40.98,
+              "reward": "$1.23 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958179759.jpg?plain&size=400x400",
+              "title": "TOMMY HILFIGER Womens Blue Stretch Paisley 3/4 Sleeve Keyhole Short Wear To Work Fit + Flare Dress Plus 18W",
+              "price": 38.98,
+              "reward": "$1.17 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958170535.jpg?plain&size=400x400",
+              "title": 37045.00011574074,
+              "price": 62.98,
+              "reward": "$1.89 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1726772173.jpg?plain&size=400x400",
+              "title": "American Living Women's Velvet Cold-Shoulder Dress",
+              "price": 19.99,
+              "reward": "$0.60 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958175069.jpg?plain&size=400x400",
+              "title": "CALVIN KLEIN Womens Black Floral Sleeveless Jewel Neck Knee Length Mermaid Dress 4",
+              "price": 78.98,
+              "reward": "$2.37 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958156591.jpg?plain&size=400x400",
+              "title": "CALVIN KLEIN Womens Black Patterned Sleeveless Jewel Neck Above The Knee Shift Dress 4",
+              "price": 34.98,
+              "reward": "$1.05 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1779958162.jpg?plain&size=400x400",
+              "title": "Lauren by Ralph Lauren Women's Floral-Print Dress",
+              "price": 99.99,
+              "reward": "$3.00 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1950976497.jpg?plain&size=400x400",
+              "title": "Alice + Olivia Womens Mina Puff Sleeve Square Neck Fit & Flare Dress",
+              "price": 198,
+              "reward": "$3.96 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958173402.jpg?plain&size=400x400",
+              "title": "CALVIN KLEIN Womens Purple Pleated Sheer Sleeve Floral Long Sleeve V Neck Above The Knee Shift Dress 2",
+              "price": 37.98,
+              "reward": "$1.14 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958232848.jpg?plain&size=400x400",
+              "title": "TOMMY HILFIGER Womens Black Tweed Sleeveless Jewel Neck Short Wear To Work Fit + Flare Dress 8",
+              "price": 52.98,
+              "reward": "$1.59 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958768570.jpg?plain&size=400x400",
+              "title": "VINCE CAMUTO Womens Beige Embroidered Lace Floral Spaghetti Strap V Neck Maxi Evening Dress 6",
+              "price": 44.99,
+              "reward": "$1.35 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958137974.jpg?plain&size=400x400",
+              "title": "ADRIANNA PAPELL Womens Navy Pleated Zippered Short Sleeve Off Shoulder Maxi Evening Fit + Flare Dress 4",
+              "price": 26.46,
+              "reward": "$0.79 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1934205247.jpg?plain&size=400x400",
+              "title": "Lost + Wander Womens Seaside Breeze Summer Short Mini Dress",
+              "price": "$15.99 - $22.59",
+              "reward": "up to $0.45 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1842398931.jpg?plain&size=400x400",
+              "title": "Signature by Robbie Bee Women's Petite Lace Dress",
+              "price": 39.99,
+              "reward": "$1.20 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1951791655.jpg?plain&size=400x400",
+              "title": "Sea Womens Heidi Cotton Long Midi Dress",
+              "price": 112.69,
+              "reward": "$2.25 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1900689616.jpg?plain&size=400x400",
+              "title": "Jessica Howard Women's Plus Size Flutter-Sleeve Lace Dress",
+              "price": 79.99,
+              "reward": "$2.40 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1950976189.jpg?plain&size=400x400",
+              "title": "Karl Lagerfeld Paris Womens Chiffon Bishop Sleeve Maxi Dress",
+              "price": 34.89,
+              "reward": "$0.70 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1945887109.jpg?plain&size=400x400",
+              "title": "Vince Camuto Womens Chiffon Ruffled Halter Dress",
+              "price": 42.69,
+              "reward": "$0.85 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958156406.jpg?plain&size=400x400",
+              "title": "BAR III Womens Navy Woven Fitted Floral Long Sleeve V Neck Short Party Fit + Flare Dress XS",
+              "price": 17.98,
+              "reward": "$0.54 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1932112227.jpg?plain&size=400x400",
+              "title": "Connected Women's Petite Velvet Rhinestone-Brooch Dress (6P, Indigo)",
+              "price": 49.99,
+              "reward": "$1.50 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1923708221.jpg?plain&size=400x400",
+              "title": "MSK Women's Petite O-Ring Zipper A-Line Dress (PL, Black)",
+              "price": 29.99,
+              "reward": "$0.90 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958139266.jpg?plain&size=400x400",
+              "title": "EMERALD SUNDAE Womens Ivory Floral Short Sleeve Crew Neck Knee Length Fit + Flare Dress Plus 1X",
+              "price": 15.98,
+              "reward": "$0.48 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1887551329.jpg?plain&size=400x400",
+              "title": "BCX Juniors' Striped Button-Tab Sweater Dress (M, Grey)",
+              "price": 9.99,
+              "reward": "$0.30 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958239266.jpg?plain&size=400x400",
+              "title": "JESSICA HOWARD Womens Black Lace Zippered Printed 3/4 Sleeve Jewel Neck Below The Knee Party Fit + Flare Dress Plus 16W",
+              "price": 40.98,
+              "reward": "$1.23 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958143219.jpg?plain&size=400x400",
+              "title": "CONNECTED APPAREL Womens Gray Ribbed Patterned 3/4 Sleeve Jewel Neck Above The Knee Shift Dress Plus 14W",
+              "price": 29.98,
+              "reward": "$0.90 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1928683379.jpg?plain&size=400x400",
+              "title": "MSK Women's Embellished Asymmetric Midi Dress",
+              "price": "$39.99 - $59.99",
+              "reward": "up to $1.80 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1901356785.jpg?plain&size=400x400",
+              "title": "American Living Women's Cold-Shoulder Velvet Dress 10, Aubergine",
+              "price": 19.96,
+              "reward": "$0.60 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1919160239.jpg?plain&size=400x400",
+              "title": "Be Bop Womens Juniors Hooded Short Mini Dress",
+              "price": 1.49,
+              "reward": "$0.03 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958155184.jpg?plain&size=400x400",
+              "title": "NOM Womens Blue Velvet Short Sleeve Knee Length Wrap Dress Size: L",
+              "price": 43.98,
+              "reward": "$1.32 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958210058.jpg?plain&size=400x400",
+              "title": "B DARLIN Womens Black Slitted Lace-up Scuba Crepe Sleeveless Halter Maxi Formal Dress Juniors 7\\8",
+              "price": 25.98,
+              "reward": "$0.78 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1787478564.jpg?plain&size=400x400",
+              "title": "Jessica Howard Women's Plus Size Patterned Sweater Dress (1X, Grey)",
+              "price": 59.99,
+              "reward": "$1.80 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958164353.jpg?plain&size=400x400",
+              "title": "MICHAEL KORS Womens Purple Textured Floral Sleeveless V Neck Below The Knee Hi-Lo Dress Petites P",
+              "price": 28.98,
+              "reward": "$0.87 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/290000/290400/290461/products/1941847516.jpg?plain&size=400x400",
+              "title": "Dolce & Gabbana Yellow Crystal Mesh Pleated Maxi Women's Dress",
+              "price": 9716,
+              "reward": "$582.96 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/274900/274929/products/1848104993.jpg?plain&size=400x400",
+              "title": "24/7 Comfort Apparel Sleeveless Fit and Flare High Low Dress - Plus, 1x , Black",
+              "price": 45.99,
+              "reward": "$0.92 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/264900/264928/products/1920988995.jpg?plain&size=400x400",
+              "title": "Michael Michael Kors Women's Plus Size Sunbleached Wrap Dress (3X, Army Green)",
+              "price": 84.99,
+              "reward": "$2.55 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958175302.jpg?plain&size=400x400",
+              "title": "CONNECTED APPAREL Womens Navy Glitter Zippered Printed Short Sleeve Jewel Neck Knee Length Party Sheath Dress 10",
+              "price": 28.98,
+              "reward": "$0.87 / 3% Cashback"
+            }
+          ],
+          "women_shoes": [
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1928718826.jpg?plain&size=400x400",
+              "title": "Vince Camuto Womens Palley Pointed Toe Knee-High Boots",
+              "price": 61.99,
+              "reward": "$1.24 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/279100/279185/products/1794428079.jpg?plain&size=400x400",
+              "title": "4Eursole Comfort 4Ever Women's Metallic Blue T-Strap Shoe",
+              "price": 31.99,
+              "reward": "$1.92 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1954748311.jpg?plain&size=400x400",
+              "title": "Calvin Klein Womens Marriet Pointed Toe Dressy Knee-High Boots",
+              "price": 61.99,
+              "reward": "$1.24 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1952350007.jpg?plain&size=400x400",
+              "title": "BCBGeneration Womens Marlo Padded Insole Knee-High Boots",
+              "price": "$10.99 - $30.99",
+              "reward": "up to $0.62 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1949582020.jpg?plain&size=400x400",
+              "title": "Zodiac Womens Gemma Fur Suede Ankle Combat & Lace-up Boots",
+              "price": 19.99,
+              "reward": "$0.40 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/267800/267870/products/1917545300.jpg?plain&size=400x400",
+              "title": "Aquatherm Women's Maya in Brown-Rust",
+              "price": 134.23,
+              "reward": "$8.05 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/267800/267870/products/1886108503.jpg?plain&size=400x400",
+              "title": "Cougar Women's Naples-L In Black",
+              "price": 192.4,
+              "reward": "$11.54 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1897433568.jpg?plain&size=400x400",
+              "title": "Puma Womens Vikky Lifestyle Lace Up Fashion Sneakers",
+              "price": 16.99,
+              "reward": "$0.34 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/263300/263362/products/1946858046.jpg?plain&size=400x400",
+              "title": "Naturalizer Womens Farah Leather Ankle Strap Flat Sandals Navy 9 Medium (B M)",
+              "price": 38.78,
+              "reward": "$1.55 / 4% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1950976487.jpg?plain&size=400x400",
+              "title": "JBU by Jambu Womens Brunswick Faux Fur Cold Weather Winter Boots",
+              "price": "$15.79 - $19.99",
+              "reward": "up to $0.40 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/263300/263362/products/1901238405.jpg?plain&size=400x400",
+              "title": "INC International Concepts Womens Lexini Two-Piece Sandals",
+              "price": 48.71,
+              "reward": "$1.95 / 4% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/279100/279185/products/1790456784.jpg?plain&size=400x400",
+              "title": "4Eursole Comfort 4Ever Women's Mahogany Slip-On Shoe",
+              "price": 31.99,
+              "reward": "$1.92 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1957342142.jpg?plain&size=400x400",
+              "title": "OluKai Womens Kipe'a 'Olu Leather Footbed Slide Sandals",
+              "price": 55.89,
+              "reward": "$1.12 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1963165274.jpg?plain&size=400x400",
+              "title": "Steve Madden Womens Scrunchy Slip-On Mules Flatform Sandals",
+              "price": 37.99,
+              "reward": "$0.76 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1959571216.jpg?plain&size=400x400",
+              "title": "Naturalizer Womens Katrese Leather Slip On Mules",
+              "price": "$99.59 - $128.00",
+              "reward": "up to $2.56 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1935456296.jpg?plain&size=400x400",
+              "title": "Naturalizer Womens Halifax Leather Slingback Sport Sandals",
+              "price": "$33.99 - $82.99",
+              "reward": "up to $1.66 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1959543217.jpg?plain&size=400x400",
+              "title": "Ryka Womens Daydream Fitness Lifestyle Athletic and Training Shoes",
+              "price": 48.89,
+              "reward": "$0.98 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/250000/251800/251872/products/919484411.jpg?plain&size=400x400",
+              "title": "Outdoor Designs 260219 X-Large Down Bootie - Black",
+              "price": 53.2,
+              "reward": "$2.66 / 5% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/290000/292000/292019/products/1944914709.jpg?plain&size=400x400",
+              "title": "Twisted X Casual Shoes Womens Lace Almond Yellow Rose WCA0060",
+              "price": 95.95,
+              "reward": "$5.76 / 6% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1857900365.jpg?plain&size=400x400",
+              "title": "Auditions Womens Kelly Leather Slip On Slide Sandals",
+              "price": 8.99,
+              "reward": "$0.18 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1856416616.jpg?plain&size=400x400",
+              "title": "Ugg Womens Emily Patent Leather Slip On Slide Sandals",
+              "price": 55.89,
+              "reward": "$1.12 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/260000/263300/263362/products/1932168472.jpg?plain&size=400x400",
+              "title": "Jewel Badgley Mischka Fantasia Embellished Women's Sandals Women's Shoes",
+              "price": 37.21,
+              "reward": "$1.49 / 4% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1956504901.jpg?plain&size=400x400",
+              "title": "Vince Camuto Womens Kelivena Zipper Almond Toe Chelsea Boots",
+              "price": "$45.19 - $86.99",
+              "reward": "up to $1.74 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1927945798.jpg?plain&size=400x400",
+              "title": "LifeStride Womens Vivienne Slip On Comfort Ballet Flats",
+              "price": "$5.99 - $47.99",
+              "reward": "up to $0.96 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1919474551.jpg?plain&size=400x400",
+              "title": "Cole Haan Womens NTKT RGD WP Hiker Boot Leather Waterproof Hiking Boots",
+              "price": "$45.04 - $89.99",
+              "reward": "up to $1.80 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/278100/278132/products/1958189424.jpg?plain&size=400x400",
+              "title": "STYLE & COMPANY Womens Brown Dual Zip Round Toe Wedge Zip-Up Dress Boots 5.5",
+              "price": 49.25,
+              "reward": "$1.48 / 3% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1954565721.jpg?plain&size=400x400",
+              "title": "Karen Scott Womens Ivvy Embossed Almond Toe Ankle Boots",
+              "price": "$9.49 - $20.85",
+              "reward": "up to $0.42 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1954649735.jpg?plain&size=400x400",
+              "title": "White Mountain Womens Dynamite Faux Fur Lace Up Hiking Boots",
+              "price": "$13.99 - $35.60",
+              "reward": "up to $0.71 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1958520112.jpg?plain&size=400x400",
+              "title": "Style & Co. Womens Marilee Moto Dressy Mid-Calf Boots",
+              "price": "$7.19 - $20.00",
+              "reward": "up to $0.40 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1945901985.jpg?plain&size=400x400",
+              "title": "Vince Camuto Womens Emmelia Block Heels Pointed-toe Cowboy, Western Boots",
+              "price": 46.99,
+              "reward": "$0.94 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1961893965.jpg?plain&size=400x400",
+              "title": "Lauren Ralph Lauren Womens Elliot Leather Lugged Sole Ankle Boots",
+              "price": "$14.69 - $148.00",
+              "reward": "up to $2.96 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1881571058.jpg?plain&size=400x400",
+              "title": "Easy Spirit Womens Adabelle Faux Fur Lined Cold Weather Winter Boots",
+              "price": "$17.99 - $66.50",
+              "reward": "up to $1.33 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1937388565.jpg?plain&size=400x400",
+              "title": "Sun + Stone Womens Miley Adjustable Dressy Wedge Heels",
+              "price": "$6.99 - $38.68",
+              "reward": "up to $0.77 / 2% Cashback"
+            },
+            {
+              "img": "https://img.shop.com/Image/270000/273200/273200/products/1949916226.jpg?plain&size=400x400",
+              "title": "Madden Girl Womens Jansenn Microfiber Faux Fur Combat & Lace-up Boots",
+              "price": "$10.99 - $51.97",
+              "reward": "up to $1.04 / 2% Cashback"
+            }
+          ]
+        
       
   }
  
