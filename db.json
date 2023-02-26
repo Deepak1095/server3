@@ -2373,7 +2373,7 @@
           {
             "img": "https://img.shop.com/Image/290000/291600/291696/products/1940910013.jpg?plain&size=400x400",
             "title": "Cutter & Buck Epic Easy Care Nailshead Mens Big and Tall Long Sleeve Dress Shirt",
-            "price": "$75.00 - $90.00",
+            "price": 90.00,
             "reward": "up to $5.40 / 6% Cashback",
             "id":1
           },
@@ -2443,7 +2443,7 @@
           {
             "img": "https://img.shop.com/Image/290000/291600/291696/products/1951836724.jpg?plain&size=400x400",
             "title": "Cutter & Buck Epic Easy Care Nailshead Mens Long Sleeve Dress Shirt",
-            "price": "$75.00 - $90.00",
+            "price": 90.00,
             "reward": "up to $5.40 / 6% Cashback",
             "id":11
           },
@@ -2485,21 +2485,21 @@
           {
             "img": "https://img.shop.com/Image/290000/291600/291696/products/1940910042.jpg?plain&size=400x400",
             "title": "Cutter & Buck Epic Easy Care Fine Twill Mens Long Sleeve Dress Shirt",
-            "price": "$75.00 - $85.00",
+            "price": 85.00,
             "reward": "up to $5.10 / 6% Cashback",
             "id":17
           },
           {
             "img": "https://img.shop.com/Image/290000/291600/291696/products/1951836704.jpg?plain&size=400x400",
             "title": "Cutter & Buck Men's L/S Epic Easy Care Mini Herringbone Shirt",
-            "price": "$75.00 - $90.00",
+            "price": 75.00,
             "reward": "up to $5.40 / 6% Cashback",
             "id":18
           },
           {
             "img": "https://img.shop.com/Image/290000/291600/291696/products/1940910009.jpg?plain&size=400x400",
             "title": "Cutter & Buck Epic Easy Care Nailshead Mens Big and Tall Short Sleeve Dress Shirt",
-            "price": "$75.00 - $80.00",
+            "price": 80.00,
             "reward": "up to $4.80 / 6% Cashback",
             "id":19
           },
