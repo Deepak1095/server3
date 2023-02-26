@@ -3863,8 +3863,371 @@
               "price": "$10.99 - $51.97",
               "reward": "up to $1.04 / 2% Cashback"
             }
-          ]
-        
+          ],
+      
+  "jewelery": [
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405527.jpg?plain&size=400x400",
+      "title": "ANGIE - Eternity Band",
+      "price": 55.95,
+      "reward": "$1.12 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294336.jpg?plain&size=400x400",
+      "title": "MAYA - Thin Herringbone Chain",
+      "price": 99.95,
+      "reward": "$2.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294737.jpg?plain&size=400x400",
+      "title": "JADE - Solitaire Paperclip Necklace",
+      "price": 119.95,
+      "reward": "$2.40 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294841.jpg?plain&size=400x400",
+      "title": "KAI - Pear Drop Necklace",
+      "price": 109.95,
+      "reward": "$2.20 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294116.jpg?plain&size=400x400",
+      "title": "MAYA - Thin Herringbone Bracelet",
+      "price": 66.5,
+      "reward": "$1.33 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913324239.jpg?plain&size=400x400",
+      "title": "MIA - Twisted Dome Hoops",
+      "price": 99.95,
+      "reward": "$2.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405772.jpg?plain&size=400x400",
+      "title": "BRANDI - Cross Huggie Earring",
+      "price": 74.95,
+      "reward": "$1.50 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294406.jpg?plain&size=400x400",
+      "title": "SCARLETT - Petite Solitaire Paperclip Necklace",
+      "price": 109.95,
+      "reward": "$2.20 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294113.jpg?plain&size=400x400",
+      "title": "KAI - Pear Drop Bracelet",
+      "price": 74.95,
+      "reward": "$1.50 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294506.jpg?plain&size=400x400",
+      "title": "MIA - Twisted Dome Ring",
+      "price": 89.95,
+      "reward": "$1.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294863.jpg?plain&size=400x400",
+      "title": "SERENA - Baguette Drop Link Necklace",
+      "price": 139.95,
+      "reward": "$2.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294132.jpg?plain&size=400x400",
+      "title": "KAMILA - Pave Coin Bracelet",
+      "price": 91.95,
+      "reward": "$1.84 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405442.jpg?plain&size=400x400",
+      "title": "SOPHIE - Pave CZ Hoop Earrings",
+      "price": 95.95,
+      "reward": "$1.92 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1913294230.jpg?plain&size=400x400",
+      "title": "MAGNETIC LAYERING CLASP",
+      "price": 29.95,
+      "reward": "$0.60 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405478.jpg?plain&size=400x400",
+      "title": "ZOE - Tapered Baguette Pave Ring",
+      "price": 57.95,
+      "reward": "$1.16 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405422.jpg?plain&size=400x400",
+      "title": "ALEXIS - Halo Earring Studs",
+      "price": 84.95,
+      "reward": "$1.70 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1887245845.jpg?plain&size=400x400",
+      "title": "BROOK - Baguette Round Bar Bracelet (FINAL SALE)",
+      "price": 37.25,
+      "reward": "$0.75 / 2.01% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1954593896.jpg?plain&size=400x400",
+      "title": "EVA â Convertible Link Drop Earrings",
+      "price": 53.95,
+      "reward": "$1.08 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1887245882.jpg?plain&size=400x400",
+      "title": "BROOK - Baguette Round Bar Necklace (FINAL SALE)",
+      "price": 46.95,
+      "reward": "$0.94 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1887245885.jpg?plain&size=400x400",
+      "title": "KELLY - Bezel Bracelet (FINAL SALE)",
+      "price": 64.95,
+      "reward": "$1.30 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405433.jpg?plain&size=400x400",
+      "title": "HEIDI - Pave Stick Necklace",
+      "price": 84.95,
+      "reward": "$1.70 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1912919929.jpg?plain&size=400x400",
+      "title": "LAYERED GIFT BOX",
+      "price": 6.95,
+      "reward": "$0.14 / 2.01% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405570.jpg?plain&size=400x400",
+      "title": "DESI - Pierced Round Cut Bracelet",
+      "price": 66.5,
+      "reward": "$1.33 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1932866536.jpg?plain&size=400x400",
+      "title": "INITIAL â Gothic Letter Necklace",
+      "price": 65.95,
+      "reward": "$1.32 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1855909650.jpg?plain&size=400x400",
+      "title": "2â Extender Chain for Necklace",
+      "price": 8,
+      "reward": "$0.16 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471839.jpg?plain&size=400x400",
+      "title": "DAPHNE â Freshwater Pearl Drop Huggie Earrings",
+      "price": 40.95,
+      "reward": "$0.82 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1857862544.jpg?plain&size=400x400",
+      "title": "BRIA - Round Cut Tennis Bracelet",
+      "price": 95.95,
+      "reward": "$1.92 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1887245830.jpg?plain&size=400x400",
+      "title": "CLAIRE - Pave Stick Studs (FINAL SALE)",
+      "price": 21.95,
+      "reward": "$0.44 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1955444694.jpg?plain&size=400x400",
+      "title": "JORDAN - Triple Stone Ring",
+      "price": 46.95,
+      "reward": "$0.94 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1881405675.jpg?plain&size=400x400",
+      "title": "NICOLE - Double Solitaire Ring",
+      "price": 49.95,
+      "reward": "$1.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1954593918.jpg?plain&size=400x400",
+      "title": "GENEVIEVE - Dual Stone Ring",
+      "price": 46.95,
+      "reward": "$0.94 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471860.jpg?plain&size=400x400",
+      "title": "OLIVIA - Freshwater Pearl and Paperclip Bracelet",
+      "price": 89.95,
+      "reward": "$1.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1902671837.jpg?plain&size=400x400",
+      "title": "GRACE - Baguette Huggie Earrings (FINAL SALE)",
+      "price": 31.95,
+      "reward": "$0.64 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471861.jpg?plain&size=400x400",
+      "title": "OLSEN â Mismatch Freshwater Pearl Earrings",
+      "price": 63.95,
+      "reward": "$1.28 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943472047.jpg?plain&size=400x400",
+      "title": "CHARLIE - Extended Curb Chain Necklace",
+      "price": 99.95,
+      "reward": "$2.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1875095140.jpg?plain&size=400x400",
+      "title": "LOREN - Pave Square Radiant Cut Link Bracelet (FINAL SALE)",
+      "price": 74.95,
+      "reward": "$1.50 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1932866537.jpg?plain&size=400x400",
+      "title": "ZODIAC â Astrological Sign Necklace",
+      "price": 109.95,
+      "reward": "$2.20 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1954593898.jpg?plain&size=400x400",
+      "title": "WINNIE - Sleek Ring Trio",
+      "price": 46.95,
+      "reward": "$0.94 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471762.jpg?plain&size=400x400",
+      "title": "EMERSON â Emerald Cut Rope Loop Earrings",
+      "price": 69.95,
+      "reward": "$1.40 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943472043.jpg?plain&size=400x400",
+      "title": "HARPER â Ultra Wide Herringbone",
+      "price": 69.95,
+      "reward": "$1.40 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943472049.jpg?plain&size=400x400",
+      "title": "KOURTNEY â Nine Cross Necklace",
+      "price": 114.95,
+      "reward": "$2.30 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1932866534.jpg?plain&size=400x400",
+      "title": "SELENA â Pave Cuban Link Chain",
+      "price": 189.95,
+      "reward": "$3.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1840336557.jpg?plain&size=400x400",
+      "title": "KATIE - Textured Solitaire Necklace",
+      "price": 59.95,
+      "reward": "$1.20 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1954593897.jpg?plain&size=400x400",
+      "title": "SASHA â Double Stud Set",
+      "price": 51.95,
+      "reward": "$1.04 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943472083.jpg?plain&size=400x400",
+      "title": "EDEN â Chain Link Pendant",
+      "price": 122.5,
+      "reward": "$2.45 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471988.jpg?plain&size=400x400",
+      "title": "SELENA â Pave Cuban Link Bracelet",
+      "price": 149.95,
+      "reward": "$3.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471733.jpg?plain&size=400x400",
+      "title": "DAWSON â Dome Ring",
+      "price": 62.95,
+      "reward": "$1.26 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1840336562.jpg?plain&size=400x400",
+      "title": "LOREN - Pave Square Radiant Cut Link Necklace (FINAL SALE)",
+      "price": 112,
+      "reward": "$2.24 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1902671822.jpg?plain&size=400x400",
+      "title": "LUNA - X Pave Ear Cuff",
+      "price": 46.95,
+      "reward": "$0.94 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471705.jpg?plain&size=400x400",
+      "title": "JAMES â Thin Hammered Ring Trio",
+      "price": 52.95,
+      "reward": "$1.06 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1840336566.jpg?plain&size=400x400",
+      "title": "MICHAEL - Mixed Cut Eternity Band",
+      "price": 99.95,
+      "reward": "$2.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1957876564.jpg?plain&size=400x400",
+      "title": "BELLA - Dainty Baguette Ring (FINAL SALE)",
+      "price": 21.95,
+      "reward": "$0.44 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1924364100.jpg?plain&size=400x400",
+      "title": "BISOUS - Prong Set Loop Earrings",
+      "price": 99.95,
+      "reward": "$2.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1925345942.jpg?plain&size=400x400",
+      "title": "STELLA - Pave Band Ring",
+      "price": 89.95,
+      "reward": "$1.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471851.jpg?plain&size=400x400",
+      "title": "SAYLOR - Satin Finish Cuff",
+      "price": 74.5,
+      "reward": "$1.49 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1943471774.jpg?plain&size=400x400",
+      "title": "MACY â Micro Pave Hoops",
+      "price": 79.95,
+      "reward": "$1.60 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1954593899.jpg?plain&size=400x400",
+      "title": "GABRIELLA - Simulated Diamond Tennis Bracelet",
+      "price": 149.95,
+      "reward": "$3.00 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1932866519.jpg?plain&size=400x400",
+      "title": "SAGE - Emerald Cut Ring",
+      "price": 89.95,
+      "reward": "$1.80 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1925345919.jpg?plain&size=400x400",
+      "title": "BOWIE - Cuban Link Bracelet",
+      "price": 95.95,
+      "reward": "$1.92 / 2% Cashback"
+    },
+    {
+      "img": "https://img.shop.com/Image/280000/282000/282022/products/1840336542.jpg?plain&size=400x400",
+      "title": "VIOLET - Round Cut Tennis Bracelet",
+      "price": 109.95,
+      "reward": "$2.20 / 2% Cashback"
+    }
+  ]
+
       
   }
  
