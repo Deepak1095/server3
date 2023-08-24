@@ -6,7 +6,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 
 const corsOptions = {
-  origin: 'http://localhost:4200', // Update with your Angular app's URL
+  origin: 'http://localhost:4200/register', // Update with your Angular app's URL
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true // Allow credentials
 };
